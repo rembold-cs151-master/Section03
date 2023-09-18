@@ -1,0 +1,608 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Section 3&mdash;Control Statements</title>
+<meta name="author" content="Jed Rembold and Eric Roberts">
+<meta name="dcterms.date" content="2022-08-29">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+<link href="css/reset.css" rel="stylesheet" />
+<link href="css/reveal.css" rel="stylesheet" />
+<link href="css/theme/python_monokai.css" rel="stylesheet" id="theme" />
+<link href="css/plugin/highlight/monokai.css" rel="stylesheet" />
+<link href="css/codetrace.css" rel="stylesheet" />
+<link href="css/rembold.css" rel="stylesheet" />
+<link href="css/roberts.css" rel="stylesheet" />
+<link href="MysteryTrace.css" rel="stylesheet" />
+<link href="PuzzleTrace.css" rel="stylesheet" />
+<link href="DrawConsoleBoxTrace.css" rel="stylesheet" />
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+
+<section id="title-slide">
+<h1 class="title" style="text-transform:none; font-size:2.2em;"
+>Section 3&mdash;Control Statements</h1>
+<p class="author">Eric Roberts and Jed Rembold</p>
+<p class="date">Week of February 6, 2023</p>
+<table style="margin:auto; margin-top:3em;">
+<tbody style="border:none;">
+<tr>
+<td>
+<img src="images/ConsoleBox-out.png"
+     style="height:400px; border-radius:0px;" />
+</td>
+</tr>
+</tbody>
+</table>
+<a title="Questions" class="pdflink" href="https://github.com/rembold-cs151-master/Section03/raw/main/Section02.pdf" style="position: absolute; right: 30px; top: 30px;"><i class="fa-solid fa-file-pdf"></i></a>
+<a title="Template Files" class="templatelink" href="https://github.com/rembold-cs151-master/Section03/zipball/master/" style="position: absolute; right: 100px; top:30px;"><i class="fa-solid fa-folder-tree"></i></a>
+</section>
+
+<section id="Problem1a" class="slide level2">
+<h2>Problem 1a</h2>
+<ul>
+<li>Suppose that the function <span class="mb">mystery</span> is defined as
+
+<div class="CodeBox" style="width:1000px; margin:1em; margin-left:130px;"
+                     ><span class="skeyword">def</span> <span class="funcname">mystery</span>(<span class="params">x, y</span>):
+    <span class="keyword">while</span
+> x != 0 <span class="keyword">and</span> y != 0:
+        <span class="keyword">if</span> x > y:
+            x -= y
+        <span class="keyword">else</span>:
+            y -= x
+    <span class="keyword">return</span> <span class="builtin">max</span
+>(x, y)</div>
+
+Trace through the execution of the function to find the value of
+<span class="mb">mystery(77,<span class="i">&nbsp;</span>42)</span>.</li>
+</ul>
+</section>
+
+<section id="MysterySlide"
+         class="slide level2"
+         data-state="MysteryTrace">
+<h2 style="text-transform:none;"
+>Tracing the <span class="m">mystery</span> Function</h2>
+<table id="MysteryTable">
+<tbody style="border:none;">
+<tr><td><div id="MysteryTrace" style="margin:0px;"></div></td></tr>
+<tr><td>
+<div id="MysteryBanner" style="margin:0px; padding:0px;">Console</div>
+</td></tr>
+<tr><td><div id="MysteryConsole"></div></td></tr>
+<tr>
+<td style="text-align:center;">
+<table class="CTControlStrip">
+<tbody>
+<tr>
+<td>
+<img id=MysteryTraceStepInButton
+     class="CTButton"
+     src="images/StepInControl.png"
+     alt="StepInButton" />
+</td>
+<td>
+<img id=MysteryTraceResetButton
+     class="CTButton"
+     src="images/ResetControl.png"
+     alt="ResetButton" />
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</table>
+<ul class="fragment">
+<li>This function calculates the greatest common divisor of
+<span class="mb">x</span> and <span class="mb">y</span> as Euclid
+described it in his <span style="font-style:italic;">Elements.</span></li>
+</ul>
+</section>
+
+<section id="Problem1b" class="slide level2">
+<h2>Problem 1b</h2>
+<ul>
+<li>Suppose that the function <span class="mb">puzzle</span> is defined as
+
+<div class="CodeBox" style="width:1000px; margin:1em; margin-left:130px;"
+                     ><span class="skeyword">def</span> <span class="funcname">puzzle</span>(<span class="params">n</span>):
+    s = 0
+    <span class="keyword">for</span
+> i <span class="keyword">in</span> <span class="builtin">range</span
+>(1, 2 * n, 2):
+        s += i
+    <span class="keyword">return</span> s</div>
+
+Trace through the execution of the function to find the value of
+<span class="mb">puzzle(8)</span>.</li>
+</ul>
+</section>
+
+<section id="PuzzleSlide"
+         class="slide level2"
+         data-state="PuzzleTrace">
+<h2 style="text-transform:none;"
+>Tracing the <span class="m">puzzle</span> Function</h2>
+<table id="PuzzleTable">
+<tbody style="border:none;">
+<tr><td><div id="PuzzleTrace" style="margin:0px;"></div></td></tr>
+<tr><td>
+<div id="PuzzleBanner" style="margin:0px; padding:0px;">Console</div>
+</td></tr>
+<tr><td><div id="PuzzleConsole"></div></td></tr>
+<tr>
+<td style="text-align:center;">
+<table class="CTControlStrip">
+<tbody>
+<tr>
+<td>
+<img id=PuzzleTraceStepInButton
+     class="CTButton"
+     src="images/StepInControl.png"
+     alt="StepInButton" />
+</td>
+<td>
+<img id=PuzzleTraceResetButton
+     class="CTButton"
+     src="images/ResetControl.png"
+     alt="ResetButton" />
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</table>
+<ul class="fragment">
+<li>This function calculates the sum of the first
+<span class="mb">n</span> odd integers, which always works out to
+<span class="mb">n</span><sup style="font-size:0.7em;">2</sup>.</li>
+</ul>
+</section>
+
+<section id="Problem2" class="slide level2">
+<h2>Problem 2</h2>
+<ul>
+<li>Write a function
+<span class="mb"
+>draw<span class="u">_</span>console<span class="u">_</span
+>box(width,<span class="i">&nbsp</span>height)</span>
+that draws a box on the console with the specified dimensions.
+The corners of the box should be represented using a plus sign
+(<span class="mb">+</span>),
+the top and bottom borders using a minus sign
+(<span class="mb">-</span>),
+and the left and right borders using a vertical bar
+(<span class="mb">|</span>).</li>
+
+<li class="fragment">For example, calling
+<span class="mb">draw<span class="u">_</span>console<span class="u">_</span
+>box(52,<span class="i">&nbsp</span>6)</span>
+should produce the following diagram:
+
+<img src="images/ConsoleBox-out.png"
+     style="height:400px; margin:1em; border-radius:0px;" /></li>
+</ul>
+</section>
+
+<section id="DrawConsoleBoxSlide"
+         class="slide level2"
+         data-state="DrawConsoleBoxTrace">
+<h2 style="text-transform:none;">Solution: Drawing a Console Box</h2>
+<table id="DrawConsoleBoxTable">
+<tbody>
+<tr><td><div id="DrawConsoleBoxTrace"></div></td></tr>
+<tr>
+<td style="text-align:center;">
+<table class="CTControlStrip">
+<tbody>
+<tr>
+<td>
+<img id=DrawConsoleBoxTraceStepInButton
+     class="CTButton"
+     src="images/StepInControl.png"
+     alt="StepInButton" />
+</td>
+<td>
+<img id=DrawConsoleBoxTraceResetButton
+     class="CTButton"
+     src="images/ResetControl.png"
+     alt="ResetButton" />
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</section>
+
+
+<section id="problem-3" class="slide level2">
+<h2>Problem 3</h2>
+<ul>
+<li>Many times you will find yourself in situations wherein the
+algorithm you want to implement to solve a particular problem is already
+known, and thus you need only to implement it.</li>
+<li>The date of Easter is determined to be the first Sunday after the
+first full moon after the vernal equinox. Methods of computing this date
+back to the third century, but involved looking up frequent values
+across different tables.</li>
+<li>Here, you seek to implement the algorithm of Karl Friedrich Gauss,
+which was published in 1800 and unique in being the first purely
+computational algorithm for computing the date of Easter.</li>
+<li>Your function should take the year as an argument, and print the
+date of Easter to the terminal. Nothing needs to be returned.</li>
+</ul>
+</section>
+<section id="gausss-algorithm" class="slide level2">
+<h2>Gauss’s Algorithm</h2>
+<ul>
+<li>Divide the number of the year for which one wishes to calculate the
+date of Easter by 19, by 4, and by 7, and call the remainder of these
+divisions <span class="math inline">\(a\)</span>, <span
+class="math inline">\(b\)</span>, and <span
+class="math inline">\(c\)</span>, respectively.</li>
+<li>Divide the value <span class="math inline">\(19a +
+24\)</span><sup class='orange'>*</sup> by 30, and call the remainder
+<span class="math inline">\(d\)</span></li>
+<li>Divide the value <span class="math inline">\(2b + 4c + 6d +
+5\)</span><sup class='orange'>*</sup> by 7, and call the remainder <span
+class="math inline">\(e\)</span></li>
+<li>If <span class="math inline">\(d+e\)</span> is less than 10, then
+Easter fall on March <span class="math inline">\(22+d+e\)</span>
+<ul>
+<li>Otherwise it fall on April <span class="math inline">\(d + e -
+9\)</span></li>
+</ul></li>
+</ul>
+<hr>
+<div style="font-size:.8em">
+<p><span class="orange">*</span> Values change every century. These
+values good for 2000-2099.</p>
+</div>
+</section>
+<section id="testing" class="slide level2">
+<h2>Testing</h2>
+<ul>
+<li>Use the below dates of Easter to write a function to check your
+previously written function using <code class="python">assert</code>
+statements</li>
+</ul>
+<table style="margin:auto; color: #F8F8F2;">
+<thead>
+<tr class="header">
+<th>Year</th>
+<th>Easter Date</th>
+</tr>
+</thead>
+<tbody style="border-top: 3px solid #F8F8F2; border-bottom: 3px solid #F8F8F2;">
+<tr class="odd">
+<td>2020</td>
+<td>April 12</td>
+</tr>
+<tr class="even">
+<td>2021</td>
+<td>April 4</td>
+</tr>
+<tr class="odd">
+<td>2022</td>
+<td>April 17</td>
+</tr>
+<tr class="even">
+<td>2023</td>
+<td>April 9</td>
+</tr>
+<tr class="odd">
+<td>2024</td>
+<td>March 31</td>
+</tr>
+<tr class="even">
+<td>2025</td>
+<td>April 20</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="possible-implementation" class="slide level2">
+<h2>Possible Implementation</h2>
+<pre ><code class="python">def compute_easter(year):
+    a = year % 19
+    b = year % 4
+    c = year % 7
+    d = (19 * a + 24) % 30
+    e = (2 * b + 4 * c + 6 * d + 5) % 7
+    if d + e < 10:
+        print("March", 22 + d + e)
+    else:
+        print("April", d + e - 9)</code></pre>
+</section>
+
+
+
+<!--
+<section id="Problem3" class="slide level2">
+<h2>Problem 3</h2>
+<ul>
+<li>One of the important strategic principles in Scrabble is to conserve
+your <span class="hb">S</span> tiles, because the rules for English
+plurals mean that many words take an <span class="hb">S</span> hook at
+the end.
+Some words, of course, allow an <span class="hb">S</span> tile to be
+added at the beginning, but it turns out that there are 680
+words&mdash;including, for example, the words
+<span class="i">cold</span> and <span class="i">hot</span>&mdash;that
+allow an <span class="hb">S</span> hook on both ends.
+Write a program that uses the <span class="mb">english.py</span> module
+to display a list of all such words.</li>
+
+<li class="fragment">To solve this problem, you need to begin by
+figuring out the strategy you will use.
+Remember that the  <span class="mb">english.py</span> library gives you
+access to two resources:
+
+<ul>
+<li>A constant <span class="mb">ENGLISH<span class="u">_</span
+>WORDS</span> that contains a list of all English words.</li>
+
+<li class="fragment">A predicate function
+<span class="mb">is<span class="u">_</span
+>english<span class="u">_</span>word(s)</span> that returns
+<span class="mb">True</span> if the string <span class="mb">s</span>
+is a valid English word.</li>
+</ul></li>
+</ul>
+</section>
+
+<section id="SolutionToProblem3" class="slide level2">
+<h2>Solution to Problem 3</h2>
+<div class="CodeBox" style="font-size:0.8em;"
+><span class='comment'># File: FindSHooks.py</span>
+
+<span class='strlit'>"""This program lists all English words that take an "S" hook on both ends."""</span>
+
+<span class='keyword'>from</span> english <span class='keyword'>import</span> is<span class='u'>_</span>english<span class='u'>_</span>word, ENGLISH<span class='u'>_</span>WORDS
+
+<span class='keyword'>def</span> find<span class='u'>_</span>s<span class='u'>_</span>hooks():
+    <span class='strlit'>"""Lists all English words that take an "S" hook on both ends."""</span>
+    <span class='keyword'>for</span> word <span class='keyword'>in</span> ENGLISH<span class='u'>_</span>WORDS:
+        <span class='keyword'>if</span> is<span class='u'>_</span>english<span class='u'>_</span>word(<span class='strlit'>"s"</span> + word) <span class='keyword'>and</span> is<span class='u'>_</span>english<span class='u'>_</span>word(word + <span class='strlit'>"s"</span>):
+            <span class='builtin'>print</span>(word)
+
+<span class='comment'># Startup code</span>
+
+<span class='keyword'>if</span> <span class='u'>_</span><span class='u'>_</span>name<span class='u'>_</span><span class='u'>_</span> == <span class='strlit'>"<span class='u'>_</span><span class='u'>_</span>main<span class='u'>_</span><span class='u'>_</span>"</span>:
+    find<span class='u'>_</span>s<span class='u'>_</span>hooks()
+</div>
+</section>
+
+-->
+
+<section id="TheEnd" class="slide level2">
+<h2 style="padding-top:27%;">The End</h2>
+</section>
+
+<script src="js/reveal.js"></script>
+
+<!-- reveal.js plugins -->
+
+<script src="js/plugin/notes/notes.js"></script>
+<script src="js/plugin/search/search.js"></script>
+<script src="js/plugin/zoom/zoom.js"></script>
+<script src="js/plugin/chart/Chart.min.js"></script>
+<script src="js/plugin/chart/plugin.js"></script>
+<script src="js/plugin/chalkboard/plugin.js"></script>
+<script src="js/plugin/math/math.js"></script>
+<script src="js/plugin/highlight/highlight.js"></script>
+
+<script src="js/codetrace.js"></script>
+<script src="MysteryTrace.js"></script>
+<script src="PuzzleTrace.js"></script>
+<script src="DrawConsoleBoxTrace.js"></script>
+<script src="https://kit.fontawesome.com/4bc05635b0.js" crossorigin="anonymous"></script>
+
+<script>
+
+      // Full list of configuration options available at:
+      // https://revealjs.com/config/
+      Reveal.initialize({
+                //autoAnimateEasing: 'ease-in',
+                //autoAnimateDuration: 1.0,
+                //autoAnimateUnmatched: false,
+        // Display controls in the bottom right corner
+        controls: true,
+        // Help the user learn the controls by providing hints, for example by
+        // bouncing the down arrow when they first encounter a vertical slide
+        controlsTutorial: true,
+        // Determines where controls appear, "edges" or "bottom-right"
+        controlsLayout: 'bottom-right',
+        // Visibility rule for backwards navigation arrows; "faded", "hidden"
+        // or "visible"
+        controlsBackArrows: 'faded',
+        // Display a presentation progress bar
+        progress: true,
+        // Display the page number of the current slide
+        slideNumber: true,
+        // Add the current slide number to the URL hash so that reloading the
+        // page/copying the URL will return you to the same slide
+        hash: true,
+        // Push each slide change to the browser history
+        history: true,
+        // Enable keyboard shortcuts for navigation
+        keyboard: true,
+        // Enable the slide overview mode
+        overview: true,
+        // Vertical centering of slides
+        center: false,
+        // Enables touch navigation on devices with touch input
+        touch: true,
+        // Loop the presentation
+        loop: false,
+        // Change the presentation direction to be RTL
+        rtl: false,
+        // see https://revealjs.com/vertical-slides/#navigation-mode
+        navigationMode: 'default',
+        // Randomizes the order of slides each time the presentation loads
+        shuffle: false,
+        // Turns fragments on and off globally
+        fragments: true,
+        // Flags whether to include the current fragment in the URL,
+        // so that reloading brings you to the same fragment position
+        fragmentInURL: false,
+        // Flags if the presentation is running in an embedded mode,
+        // i.e. contained within a limited portion of the screen
+        embedded: false,
+        // Flags if we should show a help overlay when the questionmark
+        // key is pressed
+        help: true,
+        // Flags if speaker notes should be visible to all viewers
+        showNotes: false,
+        // Global override for autoplaying embedded media (video/audio/iframe)
+        // - null: Media will only autoplay if data-autoplay is present
+        // - true: All media will autoplay, regardless of individual setting
+        // - false: No media will autoplay, regardless of individual setting
+        autoPlayMedia: true,
+        // Global override for preloading lazy-loaded iframes
+        // - null: Iframes with data-src AND data-preload will be loaded when within
+        //   the viewDistance, iframes with only data-src will be loaded when visible
+        // - true: All iframes with data-src will be loaded when within the viewDistance
+        // - false: All iframes with data-src will be loaded only when visible
+        preloadIframes: null,
+        // Number of milliseconds between automatically proceeding to the
+        // next slide, disabled when set to 0, this value can be overwritten
+        // by using a data-autoslide attribute on your slides
+        autoSlide: 0,
+        // Stop auto-sliding after user input
+        autoSlideStoppable: true,
+        // Use this method for navigation when auto-sliding
+        autoSlideMethod: null,
+        // Specify the average time in seconds that you think you will spend
+        // presenting each slide. This is used to show a pacing timer in the
+        // speaker view
+        defaultTiming: null,
+        // Enable slide navigation via mouse wheel
+        mouseWheel: false,
+        // Hide cursor if inactive
+        hideInactiveCursor: true,
+        // Time before the cursor is hidden (in ms)
+        hideCursorTime: 5000,
+        // Opens links in an iframe preview overlay
+        previewLinks: false,
+        // Transition style
+        transition: 'slide', // none/fade/slide/convex/concave/zoom
+        // Transition speed
+        transitionSpeed: 'default', // default/fast/slow
+        // Transition style for full page slide backgrounds
+        backgroundTransition: 'fade', // none/fade/slide/convex/concave/zoom
+        // Number of slides away from the current that are visible
+        viewDistance: 3,
+        // Number of slides away from the current that are visible on mobile
+        // devices. It is advisable to set this to a lower number than
+        // viewDistance in order to save resources.
+        mobileViewDistance: 2,
+        // The "normal" size of the presentation, aspect ratio will be preserved
+        // when the presentation is scaled to fit different resolutions. Can be
+        // specified using percentage units.
+        width: 1920,
+        height: 1200,
+        // The display mode that will be used to show slides
+        display: 'block',
+                math: {
+                  <!--mathjax: '../html_srcs/reveal.js/plugin/math/mathjax/tex-mml-chtml.js',-->
+                  <!--config: 'tex-mml-chtml',-->
+                  <!--tex2jax: {-->
+                        <!--inlineMath: [['\\(','\\)']],-->
+                        <!--displayMath: [['\\[','\\]']],-->
+                        <!--balanceBraces: true,-->
+                        <!--processEscapes: false,-->
+                        <!--processRefs: true,-->
+                        <!--processEnvironments: true,-->
+                        <!--preview: 'TeX',-->
+                        <!--skipTags: ['script','noscript','style','textarea','pre','code'],-->
+                        <!--ignoreClass: 'tex2jax_ignore',-->
+                        <!--processClass: 'tex2jax_process'-->
+                  <!--},-->
+                  CommonHTML: {scale: 80},
+                },
+        reveald3: {
+                        runLastState: true, // true/false, default: true
+                        onSlideChangedDelay: 200,
+                        mapPath: false, // true / false / "spefific/path/as/string", default: false
+                        tryFallbackURL: true, // true/false, default false
+                        disableCheckFile: false, //default false
+                 },
+
+        // reveal.js plugins
+        plugins: [
+            RevealMath,
+            RevealHighlight,
+            RevealNotes,
+            RevealSearch,
+            RevealZoom,
+            RevealChart,
+            RevealChalkboard,
+        ],
+        chalkboard: {
+            boardmarkerWidth: 4,
+            chalkWidth: 7,
+            boardmarkers : [
+                { color: 'rgba(248,248,242,1)',
+                  cursor: 'url(' + path + 'img/boardmarker-black.png), auto' },
+                { color: 'rgba(102,217,239,1)',
+                  cursor: 'url(' + path + 'img/boardmarker-blue.png), auto' },
+                { color: 'rgba(249,38,114,1)',
+                  cursor: 'url(' + path + 'img/boardmarker-red.png), auto' },
+                { color: 'rgba(166,226,46,1)',
+                  cursor: 'url(' + path + 'img/boardmarker-green.png), auto' },
+                { color: 'rgba(253,151,31,1)',
+                  cursor: 'url(' + path + 'img/boardmarker-orange.png), auto' },
+                { color: 'rgba(174,129,255,1)',
+                  cursor: 'url(' + path + 'img/boardmarker-purple.png), auto' },
+                { color: 'rgba(255,231,146,1)',
+                  cursor: 'url(' + path + 'img/boardmarker-yellow.png), auto '}
+            ],
+            chalks: [
+                { color: 'rgba(248,248,242,0.5)',
+                  cursor: 'url(' + path + 'img/chalk-white.png), auto' },
+                { color: 'rgba(102,217,239,0.5)',
+                  cursor: 'url(' + path + 'img/chalk-blue.png), auto' },
+                { color: 'rgba(249,38,114,0.5)',
+                  cursor: 'url(' + path + 'img/chalk-red.png), auto' },
+                { color: 'rgba(166,226,46,0.5)',
+                  cursor: 'url(' + path + 'img/chalk-green.png), auto' },
+                { color: 'rgba(253,151,31,0.5)',
+                  cursor: 'url(' + path + 'img/chalk-orange.png), auto' },
+                { color: 'rgba(174,129,255,0.5)',
+                  cursor: 'url(' + path + 'img/chalk-purple.png), auto' },
+                { color: 'rgba(255,231,146,0.5)',
+                  cursor: 'url(' + path + 'img/chalk-yellow.png), auto '}
+            ],
+            toggleChalkboardButton: false,
+            toggleNotesButton: false
+        },
+        dependencies: [
+            {
+                src: "js/plugin/title-footer/title-footer.js",
+                async: true,
+                callback:
+                    function() {
+                        title_footer.initialize({
+                            css: "css/plugin/title-footer/title-footer.css"
+                        });
+                    }
+             }
+        ],
+    });
+    Reveal.addEventListener("MysteryTrace", MysteryDemo);
+    Reveal.addEventListener("PuzzleTrace", PuzzleDemo);
+    Reveal.addEventListener("DrawConsoleBoxTrace", DrawConsoleBoxDemo);
+</script>
+</body>
+</html>

@@ -1,0 +1,17 @@
+#DrawConsoleBoxTable {
+    margin: auto;
+    border-collapse: collapse;
+    padding: 0px;
+    border-spacing: 0px;
+}
+
+#DrawConsoleBoxTrace .CodeTrace {
+    width: 1800px;
+    height: 785px;
+    padding-right: 5px;
+    font-size: 0.9em;
+}
+
+#DrawConsoleBoxTrace .CTControlStrip {
+    margin-top: 1em;
+}
