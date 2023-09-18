@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Section 3&mdash;Control Statements</title>
+<title>Section 3&mdash;Control &amp; Strings</title>
 <meta name="author" content="Jed Rembold and Eric Roberts">
 <meta name="dcterms.date" content="2022-08-29">
 <meta name="apple-mobile-web-app-capable" content="yes">
@@ -25,9 +25,9 @@
 
 <section id="title-slide">
 <h1 class="title" style="text-transform:none; font-size:2.2em;"
->Section 3&mdash;Control Statements</h1>
+>Section 3&mdash;Control &amp; Strings</h1>
 <p class="author">Eric Roberts and Jed Rembold</p>
-<p class="date">Week of February 6, 2023</p>
+<p class="date">Week of September 18, 2023</p>
 <table style="margin:auto; margin-top:3em;">
 <tbody style="border:none;">
 <tr>
@@ -257,16 +257,16 @@ class="math inline">\(c\)</span>, respectively.</li>
 5\)</span><sup class='orange'>*</sup> by 7, and call the remainder <span
 class="math inline">\(e\)</span></li>
 <li>If <span class="math inline">\(d+e\)</span> is less than 10, then
-Easter fall on March <span class="math inline">\(22+d+e\)</span>
+Easter falls on March <span class="math inline">\(22+d+e\)</span>
 <ul>
-<li>Otherwise it fall on April <span class="math inline">\(d + e -
+<li>Otherwise it falls on April <span class="math inline">\(d + e -
 9\)</span></li>
 </ul></li>
 </ul>
 <hr>
 <div style="font-size:.8em">
 <p><span class="orange">*</span> Values change every century. These
-values good for 2000-2099.</p>
+two numbers are good for 2000-2099. There is also a computational way to compute them, if you are interested.</p>
 </div>
 </section>
 <section id="testing" class="slide level2">
@@ -313,7 +313,10 @@ statements</li>
 </section>
 <section id="possible-implementation" class="slide level2">
 <h2>Possible Implementation</h2>
-<pre ><code class="python">def compute_easter(year):
+<pre ><code class="python" style='max-height:900px'>def compute_easter(year):
+    """
+    Computes the date of Easter on any year from 2000-2099
+    """
     a = year % 19
     b = year % 4
     c = year % 7

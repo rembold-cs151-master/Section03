@@ -155,11 +155,11 @@ DrawConsoleBox.HTML =
          "<span class='builtin'>range</span>(height)</span>:</span>\n" +
     "        <span class='#2'><span class='keyword'>if</span> " +
          "i == 0 <span class='keyword'>or</span> i == height - 1:</span>\n" +
-    "            <span class='#3'>endc += \"+\"</span>\n" +
-    "            <span class='#4'>midc += \"-\"</span>\n" +
+    "            <span class='#3'>endc = \"+\"</span>\n" +
+    "            <span class='#4'>midc = \"-\"</span>\n" +
     "        <span class='keyword'>else</span>:\n" +
-    "            <span class='#5'>endc += \"|\"</span>\n" +
-    "            <span class='#6'>midc += \" \"</span>\n" +
+    "            <span class='#5'>endc = \"|\"</span>\n" +
+    "            <span class='#6'>midc = \" \"</span>\n" +
     "        <span class='#7'>line = \"\"</span>\n" +
     "        <span class='#8'><span class='keyword'>for</span> " +
          "<span class='#8a'>j <span class='keyword'>in</span> " +
