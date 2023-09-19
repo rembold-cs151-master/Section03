@@ -1,0 +1,2574 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="608.74133mm"
+   height="162.89815mm"
+   viewBox="0 0 608.74133 162.89815"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="ascii_table.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#494949"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.37323245"
+     inkscape:cx="488.97142"
+     inkscape:cy="-328.21369"
+     inkscape:window-width="2560"
+     inkscape:window-height="1413"
+     inkscape:window-x="1080"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-260.3816,36.814317)">
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use1"
+       width="36.891087"
+       height="18.509619"
+       x="158.39561"
+       y="-152.38554"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334"
+       inkscape:tile-cx="229.38296"
+       inkscape:tile-cy="-13.651648"
+       inkscape:tile-w="36.668674"
+       inkscape:tile-h="17.417371" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use128"
+       width="36.891087"
+       height="18.509619"
+       x="278.36792"
+       y="-22.490753"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#75715e;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use129"
+       width="36.891087"
+       height="18.509619"
+       x="278.36792"
+       y="-3.9811339"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use130"
+       width="36.891087"
+       height="18.509619"
+       x="278.36792"
+       y="14.528486"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use131"
+       width="36.891087"
+       height="18.509619"
+       x="278.36792"
+       y="33.038105"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use132"
+       width="36.891087"
+       height="18.509619"
+       x="278.36792"
+       y="51.547718"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use133"
+       width="36.891087"
+       height="18.509619"
+       x="278.36792"
+       y="70.057335"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use134"
+       width="36.891087"
+       height="18.509619"
+       x="278.36792"
+       y="88.566956"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use135"
+       width="36.891087"
+       height="18.509619"
+       x="278.36792"
+       y="107.07658"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#75715e;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use136"
+       width="36.891087"
+       height="18.509619"
+       x="315.259"
+       y="-22.490753"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#75715e;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use137"
+       width="36.891087"
+       height="18.509619"
+       x="315.259"
+       y="-3.9811339"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use138"
+       width="36.891087"
+       height="18.509619"
+       x="315.259"
+       y="14.528486"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use139"
+       width="36.891087"
+       height="18.509619"
+       x="315.259"
+       y="33.038105"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use140"
+       width="36.891087"
+       height="18.509619"
+       x="315.259"
+       y="51.547718"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use141"
+       width="36.891087"
+       height="18.509619"
+       x="315.259"
+       y="70.057335"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use142"
+       width="36.891087"
+       height="18.509619"
+       x="315.259"
+       y="88.566956"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use143"
+       width="36.891087"
+       height="18.509619"
+       x="315.259"
+       y="107.07658"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#75715e;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use144"
+       width="36.891087"
+       height="18.509619"
+       x="352.15009"
+       y="-22.490753"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#75715e;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use145"
+       width="36.891087"
+       height="18.509619"
+       x="352.15009"
+       y="-3.9811339"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use146"
+       width="36.891087"
+       height="18.509619"
+       x="352.15009"
+       y="14.528486"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use147"
+       width="36.891087"
+       height="18.509619"
+       x="352.15009"
+       y="33.038105"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use148"
+       width="36.891087"
+       height="18.509619"
+       x="352.15009"
+       y="51.547718"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use149"
+       width="36.891087"
+       height="18.509619"
+       x="352.15009"
+       y="70.057335"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use150"
+       width="36.891087"
+       height="18.509619"
+       x="352.15009"
+       y="88.566956"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use151"
+       width="36.891087"
+       height="18.509619"
+       x="352.15009"
+       y="107.07658"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#75715e;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use152"
+       width="36.891087"
+       height="18.509619"
+       x="389.04117"
+       y="-22.490753"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#75715e;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use153"
+       width="36.891087"
+       height="18.509619"
+       x="389.04117"
+       y="-3.9811339"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use154"
+       width="36.891087"
+       height="18.509619"
+       x="389.04117"
+       y="14.528486"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use155"
+       width="36.891087"
+       height="18.509619"
+       x="389.04117"
+       y="33.038105"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use156"
+       width="36.891087"
+       height="18.509619"
+       x="389.04117"
+       y="51.547718"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use157"
+       width="36.891087"
+       height="18.509619"
+       x="389.04117"
+       y="70.057335"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use158"
+       width="36.891087"
+       height="18.509619"
+       x="389.04117"
+       y="88.566956"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use159"
+       width="36.891087"
+       height="18.509619"
+       x="389.04117"
+       y="107.07658"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#75715e;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use160"
+       width="36.891087"
+       height="18.509619"
+       x="425.93225"
+       y="-22.490753"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#75715e;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use161"
+       width="36.891087"
+       height="18.509619"
+       x="425.93225"
+       y="-3.9811339"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use162"
+       width="36.891087"
+       height="18.509619"
+       x="425.93225"
+       y="14.528486"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use163"
+       width="36.891087"
+       height="18.509619"
+       x="425.93225"
+       y="33.038105"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use164"
+       width="36.891087"
+       height="18.509619"
+       x="425.93225"
+       y="51.547718"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use165"
+       width="36.891087"
+       height="18.509619"
+       x="425.93225"
+       y="70.057335"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use166"
+       width="36.891087"
+       height="18.509619"
+       x="425.93225"
+       y="88.566956"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use167"
+       width="36.891087"
+       height="18.509619"
+       x="425.93225"
+       y="107.07658"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#75715e;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use168"
+       width="36.891087"
+       height="18.509619"
+       x="462.82333"
+       y="-22.490753"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#75715e;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use169"
+       width="36.891087"
+       height="18.509619"
+       x="462.82333"
+       y="-3.9811339"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use170"
+       width="36.891087"
+       height="18.509619"
+       x="462.82333"
+       y="14.528486"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use171"
+       width="36.891087"
+       height="18.509619"
+       x="462.82333"
+       y="33.038105"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use172"
+       width="36.891087"
+       height="18.509619"
+       x="462.82333"
+       y="51.547718"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use173"
+       width="36.891087"
+       height="18.509619"
+       x="462.82333"
+       y="70.057335"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use174"
+       width="36.891087"
+       height="18.509619"
+       x="462.82333"
+       y="88.566956"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use175"
+       width="36.891087"
+       height="18.509619"
+       x="462.82333"
+       y="107.07658"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#75715e;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use176"
+       width="36.891087"
+       height="18.509619"
+       x="499.71445"
+       y="-22.490753"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#75715e;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use177"
+       width="36.891087"
+       height="18.509619"
+       x="499.71445"
+       y="-3.9811339"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use178"
+       width="36.891087"
+       height="18.509619"
+       x="499.71445"
+       y="14.528486"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use179"
+       width="36.891087"
+       height="18.509619"
+       x="499.71445"
+       y="33.038105"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use180"
+       width="36.891087"
+       height="18.509619"
+       x="499.71445"
+       y="51.547718"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use181"
+       width="36.891087"
+       height="18.509619"
+       x="499.71445"
+       y="70.057335"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use182"
+       width="36.891087"
+       height="18.509619"
+       x="499.71445"
+       y="88.566956"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use183"
+       width="36.891087"
+       height="18.509619"
+       x="499.71445"
+       y="107.07658"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#75715e;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use184"
+       width="36.891087"
+       height="18.509619"
+       x="536.60553"
+       y="-22.490753"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#75715e;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use185"
+       width="36.891087"
+       height="18.509619"
+       x="536.60553"
+       y="-3.9811339"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use186"
+       width="36.891087"
+       height="18.509619"
+       x="536.60553"
+       y="14.528486"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use187"
+       width="36.891087"
+       height="18.509619"
+       x="536.60553"
+       y="33.038105"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use188"
+       width="36.891087"
+       height="18.509619"
+       x="536.60553"
+       y="51.547718"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use189"
+       width="36.891087"
+       height="18.509619"
+       x="536.60553"
+       y="70.057335"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use190"
+       width="36.891087"
+       height="18.509619"
+       x="536.60553"
+       y="88.566956"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use191"
+       width="36.891087"
+       height="18.509619"
+       x="536.60553"
+       y="107.07658"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use192"
+       width="36.891087"
+       height="18.509619"
+       x="573.49658"
+       y="-22.490753"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#75715e;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use193"
+       width="36.891087"
+       height="18.509619"
+       x="573.49658"
+       y="-3.9811339"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use194"
+       width="36.891087"
+       height="18.509619"
+       x="573.49658"
+       y="14.528486"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use195"
+       width="36.891087"
+       height="18.509619"
+       x="573.49658"
+       y="33.038105"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use196"
+       width="36.891087"
+       height="18.509619"
+       x="573.49658"
+       y="51.547718"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use197"
+       width="36.891087"
+       height="18.509619"
+       x="573.49658"
+       y="70.057335"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use198"
+       width="36.891087"
+       height="18.509619"
+       x="573.49658"
+       y="88.566956"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use199"
+       width="36.891087"
+       height="18.509619"
+       x="573.49658"
+       y="107.07658"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use200"
+       width="36.891087"
+       height="18.509619"
+       x="610.3877"
+       y="-22.490753"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#75715e;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use201"
+       width="36.891087"
+       height="18.509619"
+       x="610.3877"
+       y="-3.9811339"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use202"
+       width="36.891087"
+       height="18.509619"
+       x="610.3877"
+       y="14.528486"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use203"
+       width="36.891087"
+       height="18.509619"
+       x="610.3877"
+       y="33.038105"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use204"
+       width="36.891087"
+       height="18.509619"
+       x="610.3877"
+       y="51.547718"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use205"
+       width="36.891087"
+       height="18.509619"
+       x="610.3877"
+       y="70.057335"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use206"
+       width="36.891087"
+       height="18.509619"
+       x="610.3877"
+       y="88.566956"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use207"
+       width="36.891087"
+       height="18.509619"
+       x="610.3877"
+       y="107.07658"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use208"
+       width="36.891087"
+       height="18.509619"
+       x="647.27881"
+       y="-22.490753"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#75715e;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use209"
+       width="36.891087"
+       height="18.509619"
+       x="647.27881"
+       y="-3.9811339"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use210"
+       width="36.891087"
+       height="18.509619"
+       x="647.27881"
+       y="14.528486"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use211"
+       width="36.891087"
+       height="18.509619"
+       x="647.27881"
+       y="33.038105"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use212"
+       width="36.891087"
+       height="18.509619"
+       x="647.27881"
+       y="51.547718"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use213"
+       width="36.891087"
+       height="18.509619"
+       x="647.27881"
+       y="70.057335"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use214"
+       width="36.891087"
+       height="18.509619"
+       x="647.27881"
+       y="88.566956"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use215"
+       width="36.891087"
+       height="18.509619"
+       x="647.27881"
+       y="107.07658"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use216"
+       width="36.891087"
+       height="18.509619"
+       x="684.16986"
+       y="-22.490753"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#75715e;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use217"
+       width="36.891087"
+       height="18.509619"
+       x="684.16986"
+       y="-3.9811339"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use218"
+       width="36.891087"
+       height="18.509619"
+       x="684.16986"
+       y="14.528486"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use219"
+       width="36.891087"
+       height="18.509619"
+       x="684.16986"
+       y="33.038105"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use220"
+       width="36.891087"
+       height="18.509619"
+       x="684.16986"
+       y="51.547718"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use221"
+       width="36.891087"
+       height="18.509619"
+       x="684.16986"
+       y="70.057335"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use222"
+       width="36.891087"
+       height="18.509619"
+       x="684.16986"
+       y="88.566956"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use223"
+       width="36.891087"
+       height="18.509619"
+       x="684.16986"
+       y="107.07658"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use224"
+       width="36.891087"
+       height="18.509619"
+       x="721.06097"
+       y="-22.490753"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#75715e;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use225"
+       width="36.891087"
+       height="18.509619"
+       x="721.06097"
+       y="-3.9811339"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use226"
+       width="36.891087"
+       height="18.509619"
+       x="721.06097"
+       y="14.528486"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use227"
+       width="36.891087"
+       height="18.509619"
+       x="721.06097"
+       y="33.038105"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use228"
+       width="36.891087"
+       height="18.509619"
+       x="721.06097"
+       y="51.547718"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use229"
+       width="36.891087"
+       height="18.509619"
+       x="721.06097"
+       y="70.057335"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use230"
+       width="36.891087"
+       height="18.509619"
+       x="721.06097"
+       y="88.566956"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use231"
+       width="36.891087"
+       height="18.509619"
+       x="721.06097"
+       y="107.07658"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use232"
+       width="36.891087"
+       height="18.509619"
+       x="757.95203"
+       y="-22.490753"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#75715e;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use233"
+       width="36.891087"
+       height="18.509619"
+       x="757.95203"
+       y="-3.9811339"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use234"
+       width="36.891087"
+       height="18.509619"
+       x="757.95203"
+       y="14.528486"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use235"
+       width="36.891087"
+       height="18.509619"
+       x="757.95203"
+       y="33.038105"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use236"
+       width="36.891087"
+       height="18.509619"
+       x="757.95203"
+       y="51.547718"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use237"
+       width="36.891087"
+       height="18.509619"
+       x="757.95203"
+       y="70.057335"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use238"
+       width="36.891087"
+       height="18.509619"
+       x="757.95203"
+       y="88.566956"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use239"
+       width="36.891087"
+       height="18.509619"
+       x="757.95203"
+       y="107.07658"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#75715e;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use240"
+       width="36.891087"
+       height="18.509619"
+       x="794.84314"
+       y="-22.490753"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#75715e;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use241"
+       width="36.891087"
+       height="18.509619"
+       x="794.84314"
+       y="-3.9811339"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use242"
+       width="36.891087"
+       height="18.509619"
+       x="794.84314"
+       y="14.528486"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use243"
+       width="36.891087"
+       height="18.509619"
+       x="794.84314"
+       y="33.038105"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use244"
+       width="36.891087"
+       height="18.509619"
+       x="794.84314"
+       y="51.547718"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use245"
+       width="36.891087"
+       height="18.509619"
+       x="794.84314"
+       y="70.057335"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use246"
+       width="36.891087"
+       height="18.509619"
+       x="794.84314"
+       y="88.566956"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use247"
+       width="36.891087"
+       height="18.509619"
+       x="794.84314"
+       y="107.07658"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#75715e;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use248"
+       width="36.891087"
+       height="18.509619"
+       x="831.73419"
+       y="-22.490753"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#75715e;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use249"
+       width="36.891087"
+       height="18.509619"
+       x="831.73419"
+       y="-3.9811339"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use250"
+       width="36.891087"
+       height="18.509619"
+       x="831.73419"
+       y="14.528486"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use251"
+       width="36.891087"
+       height="18.509619"
+       x="831.73419"
+       y="33.038105"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use252"
+       width="36.891087"
+       height="18.509619"
+       x="831.73419"
+       y="51.547718"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use253"
+       width="36.891087"
+       height="18.509619"
+       x="831.73419"
+       y="70.057335"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#f8f8f2;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use254"
+       width="36.891087"
+       height="18.509619"
+       x="831.73419"
+       y="88.566956"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <rect
+       style="fill:#75715e;stroke:#272822;stroke-width:0.995281;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       id="use255"
+       width="36.891087"
+       height="18.509619"
+       x="831.73419"
+       y="107.07658"
+       ry="0"
+       inkscape:tile-x0="211.04862"
+       inkscape:tile-y0="-22.360334" />
+    <path
+       style="font-size:11.8887px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#f8f8f2;stroke-linecap:round;stroke-opacity:0.998262"
+       d="m 848.77545,-32.766082 h 3.24765 v 0.86528 h -3.24765 v 3.78866 h -1.03443 v -8.51058 h 4.87748 l -0.1263,0.87763 h -3.71675 z"
+       id="path294" />
+    <path
+       style="font-size:11.8887px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#f8f8f2;stroke-linecap:round;stroke-opacity:0.998262"
+       d="m 811.92946,-32.877322 h 3.06723 v 0.88381 h -3.06723 v 3.02227 h 3.76487 v 0.8591 h -4.81132 v -8.51058 h 4.70306 l -0.12028,0.87763 h -3.53633 z"
+       id="path293" />
+    <path
+       style="font-size:11.8887px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#f8f8f2;stroke-linecap:round;stroke-opacity:0.998262"
+       d="m 779.21822,-32.407602 q 0,2.41658 -1.08254,3.35602 -1.07654,0.93944 -2.65826,0.93944 h -1.90046 v -8.51058 h 1.76816 q 1.1066,0 1.9546,0.34611 0.84799,0.33993 1.38325,1.27319 0.53525,0.93326 0.53525,2.59582 z m -1.11261,0 q 0,-1.38444 -0.36686,-2.11992 -0.36686,-0.73549 -0.91416,-0.97653 -0.54127,-0.24104 -1.2329,-0.24104 h -0.97429 v 6.77385 h 0.98633 q 1.07653,0 1.7862,-0.75402 0.71568,-0.7602 0.71568,-2.68234 z"
+       id="path292" />
+    <path
+       style="font-size:11.8887px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#f8f8f2;stroke-linecap:round;stroke-opacity:0.998262"
+       d="m 740.01771,-36.761782 q 0.78184,0 1.32912,0.20396 0.55331,0.19777 1.07053,0.62423 l -0.58338,0.6984 q -0.73372,-0.63041 -1.73808,-0.63041 -0.72171,0 -1.29305,0.3461 -0.56534,0.34611 -0.90814,1.12486 -0.33679,0.77874 -0.33679,2.02103 0,1.21756 0.32476,1.99631 0.32477,0.77874 0.88408,1.13103 0.56534,0.35229 1.30508,0.35229 0.63148,0 1.08255,-0.1916 0.45105,-0.19159 0.84197,-0.51916 l 0.54127,0.70458 q -0.42098,0.42028 -1.03443,0.67368 -0.61344,0.2534 -1.44339,0.2534 -1.02241,0 -1.84034,-0.51299 -0.81191,-0.51298 -1.28101,-1.50186 -0.46309,-0.99507 -0.46309,-2.38568 0,-1.38444 0.47512,-2.37332 0.47512,-0.99506 1.28102,-1.50187 0.80589,-0.51298 1.7862,-0.51298 z"
+       id="path291" />
+    <path
+       style="font-size:11.8887px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#f8f8f2;stroke-linecap:round;stroke-opacity:0.998262"
+       d="m 705.27967,-30.541092 q 0,0.87764 -0.43903,1.42152 -0.43904,0.53771 -1.13668,0.77257 -0.69764,0.23486 -1.52759,0.23486 h -2.22523 v -8.51058 h 2.03879 q 1.25696,0 2.09293,0.50062 0.83597,0.49444 0.83597,1.64402 0,0.76639 -0.43904,1.23611 -0.43903,0.46971 -1.10059,0.62423 1.90047,0.33375 1.90047,2.07665 z m -1.43137,-3.88136 q 0,-1.335 -1.62382,-1.335 h -1.2329 v 2.75652 h 1.33514 q 0.75178,0 1.13668,-0.33993 0.3849,-0.34611 0.3849,-1.08159 z m 0.33078,3.91845 q 0,-0.89618 -0.48113,-1.25465 -0.47512,-0.35847 -1.29304,-0.35847 h -1.41333 v 3.12116 h 1.36521 q 0.7638,0 1.29305,-0.32757 0.52924,-0.32756 0.52924,-1.18047 z"
+       id="path290" />
+    <path
+       style="font-size:11.8887px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#f8f8f2;stroke-linecap:round;stroke-opacity:0.998262"
+       d="m 664.0524,-30.281512 -0.66157,2.16937 h -1.02842 l 2.69435,-8.51058 h 1.33514 l 2.69434,8.51058 h -1.09458 l -0.66156,-2.16937 z m 3.00707,-0.88999 -1.3592,-4.54886 -1.37724,4.54886 z"
+       id="path289" />
+    <path
+       style="font-size:11.8887px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#f8f8f2;stroke-linecap:round;stroke-opacity:0.998262"
+       d="m 628.82421,-36.814317 q 0.8901,0 1.49151,0.42028 0.60744,0.42027 0.90814,1.19902 0.30071,0.77874 0.30071,1.86033 0,1.69965 -0.45107,2.72561 -0.45105,1.01979 -1.38926,1.62548 -0.9322,0.59951 -2.57406,1.06305 l -0.23455,-0.79111 q 1.1908,-0.33993 1.94858,-0.7911 0.75779,-0.45736 1.16074,-1.13722 0.40896,-0.67986 0.46309,-1.67492 -0.8059,1.0136 -1.93656,1.0136 -0.69163,0 -1.22689,-0.32756 -0.53525,-0.32757 -0.84198,-0.93944 -0.30071,-0.61805 -0.30071,-1.45243 0,-0.88381 0.34883,-1.51422 0.35483,-0.63041 0.96226,-0.9518 0.61344,-0.32757 1.37122,-0.32757 z m -0.12629,4.68483 q 0.53526,0 0.95625,-0.27812 0.42701,-0.2843 0.81793,-0.82819 -0.012,-0.99506 -0.19246,-1.59457 -0.18042,-0.59951 -0.54127,-0.87146 -0.35484,-0.27194 -0.91416,-0.27194 -0.80589,0 -1.22087,0.5068 -0.41498,0.50681 -0.41498,1.48333 0,0.94562 0.39092,1.40298 0.39092,0.45117 1.11864,0.45117 z"
+       id="path288" />
+    <path
+       style="font-size:11.8887px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#f8f8f2;stroke-linecap:round;stroke-opacity:0.998262"
+       d="m 594.426,-34.598592 q 0,0.59951 -0.36085,1.05687 -0.35483,0.45117 -1.07653,0.85909 0.83597,0.35229 1.30506,0.93944 0.46911,0.58096 0.46911,1.34735 0,0.69222 -0.34882,1.24846 -0.34882,0.55007 -0.99234,0.86528 -0.64351,0.30902 -1.50353,0.30902 -0.86604,0 -1.49753,-0.3152 -0.63149,-0.31521 -0.96827,-0.8591 -0.33079,-0.55006 -0.33079,-1.22992 0,-1.43388 1.65991,-2.21881 -0.67959,-0.33374 -1.00436,-0.7911 -0.31875,-0.45736 -0.31875,-1.15576 0,-0.73548 0.37287,-1.2361 0.3789,-0.50063 0.95024,-0.74167 0.57736,-0.24104 1.16074,-0.24104 0.6375,0 1.20282,0.23486 0.56534,0.23486 0.92017,0.72312 0.36085,0.48827 0.36085,1.20521 z m -3.96934,0.068 q 0,0.46972 0.20448,0.74784 0.21049,0.27812 0.55932,0.445 0.35483,0.16687 1.05247,0.39555 0.40896,-0.23486 0.65555,-0.45736 0.24658,-0.2225 0.37288,-0.50062 0.12629,-0.27812 0.12629,-0.66132 0,-0.64895 -0.39092,-1.01978 -0.39092,-0.37701 -1.09457,-0.37701 -0.70366,0 -1.09458,0.37701 -0.39092,0.37701 -0.39092,1.05069 z m 3.24162,4.14713 q 0,-0.54389 -0.26461,-0.87764 -0.26463,-0.33375 -0.69163,-0.5377 -0.421,-0.20396 -1.26297,-0.50063 -0.5894,0.27813 -0.94423,0.73549 -0.34882,0.45117 -0.34882,1.19284 0,0.73548 0.43904,1.14957 0.44505,0.40792 1.28702,0.40792 0.56533,0 0.96828,-0.20396 0.40295,-0.20396 0.60743,-0.55625 0.21049,-0.35847 0.21049,-0.80964 z"
+       id="path287" />
+    <path
+       style="font-size:11.8887px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#f8f8f2;stroke-linecap:round;stroke-opacity:0.998262"
+       d="m 553.25585,-28.350092 3.22959,-7.46607 h -3.88514 v -0.86527 h 4.90154 v 0.79728 l -3.30177,7.83072 z"
+       id="path286" />
+    <path
+       style="font-size:11.8887px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#f8f8f2;stroke-linecap:round;stroke-opacity:0.998262"
+       d="m 518.49075,-33.659162 q 0.65554,0 1.18478,0.30285 0.53527,0.29667 0.848,0.90236 0.31274,0.59951 0.31274,1.47714 0,0.91472 -0.34882,1.59457 -0.34281,0.67986 -0.93821,1.04451 -0.5954,0.36465 -1.3171,0.36465 -1.44941,0 -2.09894,-1.08159 -0.64952,-1.08159 -0.64952,-3.08408 0,-1.40297 0.36686,-2.44748 0.36686,-1.04451 1.05849,-1.60694 0.69764,-0.56861 1.65389,-0.56861 0.91415,0 1.63585,0.49445 l -0.39693,0.70457 q -0.57135,-0.35846 -1.25697,-0.35846 -0.62546,0 -1.08254,0.42027 -0.45106,0.4141 -0.69764,1.18048 -0.24658,0.76638 -0.27064,1.81089 0.39092,-0.59333 0.88408,-0.87145 0.49316,-0.27813 1.11262,-0.27813 z m -0.26463,4.84553 q 0.76982,0 1.17276,-0.56243 0.40296,-0.5686 0.40296,-1.57603 0,-0.99506 -0.38491,-1.42152 -0.37889,-0.43263 -1.08254,-0.43263 -0.57136,0 -1.04046,0.32138 -0.46309,0.32139 -0.78785,0.88382 0.0241,0.97034 0.20448,1.58221 0.18644,0.61187 0.5533,0.90854 0.37288,0.29666 0.96226,0.29666 z"
+       id="path285" />
+    <path
+       style="font-size:11.8887px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#f8f8f2;stroke-linecap:round;stroke-opacity:0.998262"
+       d="m 483.44902,-35.865557 h -3.27171 v 2.68234 q 0.36687,-0.20396 0.70366,-0.2843 0.3368,-0.0804 0.72772,-0.0804 0.67959,0 1.1908,0.3152 0.5112,0.31521 0.78785,0.9209 0.28267,0.59951 0.28267,1.43388 0,0.84673 -0.34882,1.48951 -0.34281,0.64277 -0.98032,0.99506 -0.63148,0.35229 -1.47346,0.35229 -0.7217,0 -1.31109,-0.25958 -0.58337,-0.26576 -1.08855,-0.76639 l 0.62547,-0.61805 q 0.37287,0.40174 0.8119,0.59333 0.43904,0.1916 0.9743,0.1916 0.82394,0 1.27499,-0.51298 0.45709,-0.51299 0.45709,-1.49569 0,-0.96416 -0.40897,-1.39062 -0.40294,-0.42645 -1.08255,-0.42645 -0.34281,0 -0.61946,0.068 -0.27063,0.0618 -0.67357,0.21632 h -0.81192 v -4.2522 h 4.38432 z"
+       id="path284" />
+    <path
+       style="font-size:11.8887px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#f8f8f2;stroke-linecap:round;stroke-opacity:0.998262"
+       d="m 447.12325,-30.114627 h -1.07052 v 2.07047 h -0.97429 l -0.006,-2.07047 h -3.44009 v -0.75403 l 2.42971,-5.82205 0.84199,0.36466 -2.20118,5.38323 h 2.3816 l 0.1263,-2.41659 h 0.84198 v 2.41659 h 1.07052 z"
+       id="path283" />
+    <path
+       style="font-size:11.8887px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#f8f8f2;stroke-linecap:round;stroke-opacity:0.998262"
+       d="m 407.38748,-36.761782 q 0.75778,0 1.33514,0.29049 0.58338,0.2843 0.89611,0.77256 0.31274,0.48208 0.31274,1.06305 0,0.50063 -0.22253,0.92708 -0.2165,0.42028 -0.58938,0.6984 -0.36686,0.27194 -0.8059,0.35847 0.50519,0.0433 0.93219,0.29667 0.42701,0.24722 0.68562,0.70457 0.26462,0.45736 0.26462,1.08159 0,0.73549 -0.36686,1.32882 -0.36085,0.58715 -1.0164,0.92707 -0.64952,0.33993 -1.4915,0.33993 -0.73373,0 -1.41332,-0.2843 -0.67961,-0.28431 -1.13067,-0.85291 l 0.6796,-0.56861 q 0.3428,0.41409 0.82995,0.63041 0.48715,0.21632 1.01038,0.21632 0.57134,0 0.98632,-0.21014 0.41498,-0.21013 0.63149,-0.59951 0.22252,-0.39555 0.22252,-0.92708 0,-1.61311 -1.71403,-1.61311 h -0.69764 l 0.1263,-0.82201 h 0.48714 q 0.41497,0 0.77583,-0.16069 0.36085,-0.16688 0.57735,-0.50062 0.22253,-0.33993 0.22253,-0.82201 0,-0.45736 -0.2105,-0.77875 -0.20448,-0.32757 -0.55932,-0.49444 -0.35483,-0.17306 -0.79386,-0.17306 -0.52323,0 -0.92618,0.1916 -0.40295,0.18542 -0.82996,0.59333 l -0.55932,-0.63659 q 1.01039,-0.97653 2.35154,-0.97653 z"
+       id="path282" />
+    <path
+       style="font-size:11.8887px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#f8f8f2;stroke-linecap:round;stroke-opacity:0.998262"
+       d="m 370.51745,-36.690705 q 0.76379,0 1.32912,0.309027 0.56534,0.309025 0.86605,0.84673 0.3007,0.537706 0.3007,1.217563 0,0.784925 -0.35484,1.526589 -0.35482,0.741662 -1.14268,1.631656 -0.78184,0.889995 -2.21321,2.231167 h 3.90318 l -0.12629,0.883814 h -4.9256 v -0.84673 q 1.62984,-1.606935 2.41168,-2.503111 0.78184,-0.896175 1.08255,-1.532768 0.30071,-0.642774 0.30071,-1.353534 0,-0.723121 -0.39694,-1.131036 -0.39092,-0.414094 -1.08255,-0.414094 -0.5954,0 -0.99233,0.210138 -0.39092,0.203956 -0.79387,0.698398 l -0.69764,-0.556247 q 0.49918,-0.624232 1.10059,-0.920898 0.60743,-0.296664 1.43137,-0.296664 z"
+       id="path281" />
+    <path
+       style="font-size:11.8887px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#f8f8f2;stroke-linecap:round;stroke-opacity:0.998262"
+       d="m 336.24553,-28.958875 v 0.846731 h -4.78125 v -0.846731 h 2.0388 v -6.53899 l -1.90047,1.18666 -0.43904,-0.741662 2.46581,-1.569852 h 0.88407 v 7.663844 z"
+       id="path280" />
+    <path
+       style="font-size:11.8887px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#f8f8f2;stroke-linecap:round;stroke-opacity:0.998262"
+       d="m 296.81346,-36.761781 q 1.32913,0 2.02076,1.131035 0.69162,1.131035 0.69162,3.257133 0,2.13228 -0.69162,3.269495 -0.69163,1.131035 -2.02076,1.131035 -1.32912,0 -2.02075,-1.131035 -0.69163,-1.137215 -0.69163,-3.269495 0,-2.126098 0.69163,-3.257133 0.69163,-1.131035 2.02075,-1.131035 z m 0,0.83437 q -1.64187,0 -1.64187,3.553798 0,1.42152 0.2105,2.224987 l 2.53196,-5.228718 q -0.37288,-0.550067 -1.10059,-0.550067 z m 0,7.113777 q 1.64788,0 1.64788,-3.559979 0,-1.446241 -0.21651,-2.237347 l -2.51993,5.253441 q 0.19847,0.278123 0.46309,0.414094 0.27064,0.129791 0.62547,0.129791 z"
+       id="text255" />
+    <path
+       d="m 263.43142,-17.598969 q 1.35616,0 2.06185,1.122973 0.70569,1.122972 0.70569,3.233915 0,2.117079 -0.70569,3.2461881 -0.70569,1.1229724 -2.06185,1.1229724 -1.35616,0 -2.06185,-1.1229724 -0.7057,-1.1291091 -0.7057,-3.2461881 0,-2.110943 0.7057,-3.233915 0.70569,-1.122973 2.06185,-1.122973 z m 0,0.828423 q -1.67525,0 -1.67525,3.528465 0,1.411386 0.21477,2.209126 l 2.58345,-5.191446 q -0.38046,-0.546145 -1.12297,-0.546145 z m 0,7.0630668 q 1.68139,0 1.68139,-3.5346018 0,-1.435932 -0.22091,-2.221399 l -2.57118,5.215992 q 0.2025,0.276141 0.47251,0.4111431 0.27614,0.1288657 0.63819,0.1288657 z m 4.36303,0.6934201 2.38708,-3.4118729 -2.09253,-3.049821 h 1.22115 l 1.4973,2.405493 1.51571,-2.405493 h 1.1782 l -2.0864,3.006866 2.38095,3.4548279 h -1.26411 l -1.7673,-2.7736809 -1.79185,2.7736809 z"
+       id="text294"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#f8f8f2;stroke-width:0.999993;stroke-linecap:round;stroke-opacity:0.998262"
+       aria-label="0x" />
+    <path
+       d="m 266.10078,8.6579344 v 0.8406952 h -4.87849 V 8.6579344 h 2.08026 V 2.1655582 l -1.93912,1.1782006 -0.44796,-0.7363754 2.51595,-1.5586612 h 0.90206 v 7.6092122 z m 1.69367,0.8406952 2.38708,-3.4118726 -2.09253,-3.0498213 h 1.22115 l 1.4973,2.4054929 1.51571,-2.4054929 h 1.1782 l -2.0864,3.0068661 2.38095,3.4548278 h -1.26411 l -1.7673,-2.7736806 -1.79185,2.7736806 z"
+       id="text295"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#f8f8f2;stroke-width:0.999993;stroke-linecap:round;stroke-opacity:0.998262"
+       aria-label="1x" />
+    <path
+       d="m 263.05709,19.490841 q 0.77934,0 1.35616,0.306823 0.57683,0.306823 0.88365,0.840695 0.30683,0.533872 0.30683,1.208883 0,0.779331 -0.36205,1.515706 -0.36206,0.736375 -1.16593,1.620026 -0.79774,0.88365 -2.25822,2.215262 h 3.98256 l -0.12886,0.877514 h -5.02576 v -0.840695 q 1.66298,-1.59548 2.46072,-2.485267 0.79774,-0.889787 1.10456,-1.521842 0.30682,-0.638192 0.30682,-1.343885 0,-0.717966 -0.405,-1.122973 -0.39887,-0.411143 -1.10457,-0.411143 -0.60751,0 -1.01251,0.20864 -0.39887,0.202503 -0.81002,0.69342 l -0.71183,-0.552281 q 0.50933,-0.619783 1.12298,-0.914333 0.61978,-0.29455 1.46047,-0.29455 z m 4.73736,8.584909 2.38708,-3.411872 -2.09253,-3.049822 h 1.22115 l 1.4973,2.405493 1.51571,-2.405493 h 1.1782 l -2.0864,3.006867 2.38095,3.454827 h -1.26411 l -1.7673,-2.77368 -1.79185,2.77368 z"
+       id="text296"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#f8f8f2;stroke-width:0.999993;stroke-linecap:round;stroke-opacity:0.998262"
+       aria-label="2x" />
+    <path
+       d="m 263.04482,37.929892 q 0.7732,0 1.3623,0.288413 0.59523,0.282277 0.91433,0.767058 0.3191,0.478644 0.3191,1.055471 0,0.497054 -0.22705,0.920469 -0.22092,0.41728 -0.60138,0.693421 -0.37432,0.270004 -0.82228,0.355914 0.51546,0.04296 0.95115,0.294551 0.43569,0.245458 0.69956,0.699556 0.27,0.454098 0.27,1.073881 0,0.730239 -0.37432,1.319339 -0.36819,0.582964 -1.03707,0.920469 -0.66273,0.337506 -1.52184,0.337506 -0.74865,0 -1.44207,-0.282278 -0.69342,-0.282277 -1.15365,-0.846831 l 0.69342,-0.564555 q 0.34978,0.411143 0.84683,0.625919 0.49705,0.214777 1.03093,0.214777 0.58296,0 1.00637,-0.20864 0.42342,-0.20864 0.64433,-0.595237 0.22705,-0.392733 0.22705,-0.920469 0,-1.601617 -1.74889,-1.601617 h -0.71183 l 0.12887,-0.816149 h 0.49705 q 0.42342,0 0.7916,-0.159548 0.36819,-0.165684 0.5891,-0.497053 0.22705,-0.337506 0.22705,-0.81615 0,-0.454098 -0.21477,-0.773194 -0.20864,-0.325232 -0.57069,-0.490917 -0.36206,-0.171821 -0.81002,-0.171821 -0.53387,0 -0.94501,0.190231 -0.41114,0.184093 -0.84683,0.5891 l -0.57069,-0.632056 q 1.03092,-0.96956 2.39935,-0.96956 z m 4.74963,8.584909 2.38708,-3.411873 -2.09253,-3.049821 h 1.22115 l 1.4973,2.405493 1.51571,-2.405493 h 1.1782 l -2.0864,3.006866 2.38095,3.454828 h -1.26411 l -1.7673,-2.773681 -1.79185,2.773681 z"
+       id="text297"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#f8f8f2;stroke-width:0.999993;stroke-linecap:round;stroke-opacity:0.998262"
+       aria-label="3x" />
+    <path
+       d="m 266.23578,63.039264 h -1.09229 v 2.055714 h -0.9941 l -0.006,-2.055714 h -3.51006 v -0.748649 l 2.47913,-5.780546 0.85911,0.362051 -2.24595,5.344858 h 2.43004 l 0.12887,-2.399356 h 0.8591 v 2.399356 h 1.09229 z m 1.55867,2.055714 2.38708,-3.411872 -2.09253,-3.049822 h 1.22115 l 1.4973,2.405493 1.51571,-2.405493 h 1.1782 l -2.0864,3.006867 2.38095,3.454827 h -1.26411 l -1.7673,-2.77368 -1.79185,2.77368 z"
+       id="text298"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#f8f8f2;stroke-width:0.999993;stroke-linecap:round;stroke-opacity:0.998262"
+       aria-label="4x" />
+    <path
+       d="m 265.57304,75.838908 h -3.33823 v 2.663225 q 0.37432,-0.202504 0.71797,-0.282278 0.34364,-0.07977 0.74251,-0.07977 0.69342,0 1.21502,0.31296 0.5216,0.312959 0.80387,0.914333 0.28842,0.595236 0.28842,1.423659 0,0.840695 -0.35592,1.478887 -0.34978,0.638192 -1.00024,0.98797 -0.64433,0.349778 -1.50343,0.349778 -0.73638,0 -1.33775,-0.257731 -0.59524,-0.263868 -1.1107,-0.760921 l 0.63819,-0.613646 q 0.38046,0.39887 0.82842,0.5891 0.44796,0.19023 0.99411,0.19023 0.84069,0 1.30093,-0.509326 0.46637,-0.509326 0.46637,-1.485024 0,-0.957288 -0.41728,-1.380703 -0.41114,-0.423416 -1.10456,-0.423416 -0.34978,0 -0.63206,0.0675 -0.27614,0.06136 -0.68728,0.214776 h -0.82842 v -4.221886 h 4.47348 z m 2.22141,7.627622 2.38708,-3.411873 -2.09253,-3.049821 h 1.22115 l 1.4973,2.405493 1.51571,-2.405493 h 1.1782 l -2.0864,3.006866 2.38095,3.454828 h -1.26411 l -1.7673,-2.773681 -1.79185,2.773681 z"
+       id="text299"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#f8f8f2;stroke-width:0.999993;stroke-linecap:round;stroke-opacity:0.998262"
+       aria-label="5x" />
+    <path
+       d="m 263.79347,96.539242 q 0.66887,0 1.20888,0.300686 0.54615,0.294551 0.86524,0.895924 0.3191,0.595237 0.3191,1.466614 0,0.908194 -0.35591,1.583204 -0.34978,0.67501 -0.95729,1.03707 -0.60751,0.36205 -1.34389,0.36205 -1.47888,0 -2.14162,-1.07388 -0.66274,-1.07389 -0.66274,-3.062099 0,-1.392976 0.37432,-2.430038 0.37433,-1.037062 1.08002,-1.59548 0.71183,-0.564555 1.68753,-0.564555 0.93274,0 1.66912,0.490917 l -0.40501,0.699557 q -0.58296,-0.355915 -1.28252,-0.355915 -0.63819,0 -1.10456,0.417279 -0.46024,0.411143 -0.71183,1.172065 -0.2516,0.760921 -0.27614,1.797983 0.39887,-0.589101 0.90205,-0.865241 0.50319,-0.276141 1.13525,-0.276141 z m -0.27,4.810988 q 0.78546,0 1.19661,-0.55842 0.41114,-0.56455 0.41114,-1.564798 0,-0.98797 -0.39273,-1.411386 -0.3866,-0.429552 -1.10457,-0.429552 -0.58296,0 -1.06161,0.319096 -0.4725,0.319096 -0.80387,0.877514 0.0245,0.963424 0.20864,1.570936 0.19023,0.60751 0.56455,0.90206 0.38046,0.29455 0.98184,0.29455 z m 4.27098,0.69342 2.38708,-3.411875 -2.09253,-3.049821 h 1.22115 l 1.4973,2.405493 1.51571,-2.405493 h 1.1782 l -2.0864,3.006866 2.38095,3.45483 h -1.26411 l -1.7673,-2.773683 -1.79185,2.773683 z"
+       id="text300"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#f8f8f2;stroke-width:0.999993;stroke-linecap:round;stroke-opacity:0.998262"
+       aria-label="6x" />
+    <path
+       d="m 261.61503,120.32008 3.29528,-7.41284 h -3.96416 v -0.85911 h 5.00122 v 0.79161 l -3.36892,7.77489 z m 6.17942,0.17796 2.38708,-3.41187 -2.09253,-3.04982 h 1.22115 l 1.4973,2.40549 1.51571,-2.40549 h 1.1782 l -2.0864,3.00686 2.38095,3.45483 h -1.26411 l -1.7673,-2.77368 -1.79185,2.77368 z"
+       id="text301"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#f8f8f2;stroke-width:0.999993;stroke-linecap:round;stroke-opacity:0.998262"
+       aria-label="7x" />
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="168.02861"
+       y="-119.31873"
+       id="text302"><tspan
+         sodipodi:role="line"
+         id="tspan302"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="168.02861"
+         y="-119.31873">0x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="289.3331"
+       y="-9.0140591"
+       id="text303"><tspan
+         sodipodi:role="line"
+         id="tspan303"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="289.3331"
+         y="-9.0140591">\0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="584.67352"
+       y="-8.9005346"
+       id="text304"><tspan
+         sodipodi:role="line"
+         id="tspan304"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="584.67352"
+         y="-8.9005346">\b</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="621.64746"
+       y="-8.9005346"
+       id="text305"><tspan
+         sodipodi:role="line"
+         id="tspan305"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="621.64746"
+         y="-8.9005346">\t</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="658.64899"
+       y="-8.9005346"
+       id="text306"><tspan
+         sodipodi:role="line"
+         id="tspan306"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="658.64899"
+         y="-8.9005346">\n</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="695.30072"
+       y="-8.9005346"
+       id="text307"><tspan
+         sodipodi:role="line"
+         id="tspan307"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="695.30072"
+         y="-8.9005346">\v</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="732.10284"
+       y="-8.9005346"
+       id="text308"><tspan
+         sodipodi:role="line"
+         id="tspan308"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="732.10284"
+         y="-8.9005346">\f</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="769.13812"
+       y="-8.9005346"
+       id="text309"><tspan
+         sodipodi:role="line"
+         id="tspan309"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="769.13812"
+         y="-8.9005346">\r</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';letter-spacing:-0.896937px;fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="280.22247"
+       y="26.895903"
+       id="text310"><tspan
+         sodipodi:role="line"
+         id="tspan310"
+         style="letter-spacing:-0.896937px;fill:#3e3d32;stroke-width:0.999993"
+         x="280.22247"
+         y="26.895903">space</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="330.02881"
+       y="27.937679"
+       id="text311"><tspan
+         sodipodi:role="line"
+         id="tspan311"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="330.02881"
+         y="27.937679">!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="366.91376"
+       y="29.040024"
+       id="text312"><tspan
+         sodipodi:role="line"
+         id="tspan312"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="366.91376"
+         y="29.040024">&quot;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="403.80484"
+       y="28.008249"
+       id="text313"><tspan
+         sodipodi:role="line"
+         id="tspan313"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="403.80484"
+         y="28.008249">#</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="440.65604"
+       y="28.051205"
+       id="text314"><tspan
+         sodipodi:role="line"
+         id="tspan314"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="440.65604"
+         y="28.051205">$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="477.58087"
+       y="27.999044"
+       id="text315"><tspan
+         sodipodi:role="line"
+         id="tspan315"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="477.58087"
+         y="27.999044">%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="514.31244"
+       y="27.999044"
+       id="text316"><tspan
+         sodipodi:role="line"
+         id="tspan316"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="514.31244"
+         y="27.999044">&amp;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="551.3692"
+       y="27.999044"
+       id="text317"><tspan
+         sodipodi:role="line"
+         id="tspan317"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="551.3692"
+         y="27.999044">'</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="588.56097"
+       y="27.999044"
+       id="text318"><tspan
+         sodipodi:role="line"
+         id="tspan318"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="588.56097"
+         y="27.999044">(</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="624.85065"
+       y="27.999044"
+       id="text319"><tspan
+         sodipodi:role="line"
+         id="tspan319"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="624.85065"
+         y="27.999044">)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="662.04248"
+       y="27.999044"
+       id="text320"><tspan
+         sodipodi:role="line"
+         id="tspan320"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="662.04248"
+         y="27.999044">*</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="698.93353"
+       y="27.999044"
+       id="text321"><tspan
+         sodipodi:role="line"
+         id="tspan321"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="698.93353"
+         y="27.999044">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="735.91357"
+       y="27.999044"
+       id="text322"><tspan
+         sodipodi:role="line"
+         id="tspan322"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="735.91357"
+         y="27.999044">,</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="772.7157"
+       y="27.999044"
+       id="text323"><tspan
+         sodipodi:role="line"
+         id="tspan323"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="772.7157"
+         y="27.999044">-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="809.61292"
+       y="27.999044"
+       id="text324"><tspan
+         sodipodi:role="line"
+         id="tspan324"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="809.61292"
+         y="27.999044">.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="846.49786"
+       y="27.999044"
+       id="text325"><tspan
+         sodipodi:role="line"
+         id="tspan325"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="846.49786"
+         y="27.999044">/</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="293.13159"
+       y="46.514801"
+       id="text326"><tspan
+         sodipodi:role="line"
+         id="tspan326"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="293.13159"
+         y="46.514801">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="329.94595"
+       y="46.514801"
+       id="text327"><tspan
+         sodipodi:role="line"
+         id="tspan327"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="329.94595"
+         y="46.514801">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="367.20831"
+       y="46.514801"
+       id="text328"><tspan
+         sodipodi:role="line"
+         id="tspan328"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="367.20831"
+         y="46.514801">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="404.09018"
+       y="46.514801"
+       id="text329"><tspan
+         sodipodi:role="line"
+         id="tspan329"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="404.09018"
+         y="46.514801">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="440.69287"
+       y="46.514801"
+       id="text330"><tspan
+         sodipodi:role="line"
+         id="tspan330"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="440.69287"
+         y="46.514801">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="477.66986"
+       y="46.514801"
+       id="text331"><tspan
+         sodipodi:role="line"
+         id="tspan331"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="477.66986"
+         y="46.514801">5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="514.45355"
+       y="46.514801"
+       id="text332"><tspan
+         sodipodi:role="line"
+         id="tspan332"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="514.45355"
+         y="46.514801">6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="551.35382"
+       y="46.514801"
+       id="text333"><tspan
+         sodipodi:role="line"
+         id="tspan333"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="551.35382"
+         y="46.514801">7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="588.26025"
+       y="46.514801"
+       id="text334"><tspan
+         sodipodi:role="line"
+         id="tspan334"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="588.26025"
+         y="46.514801">8</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="625.271"
+       y="46.514801"
+       id="text335"><tspan
+         sodipodi:role="line"
+         id="tspan335"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="625.271"
+         y="46.514801">9</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="662.04858"
+       y="46.514801"
+       id="text336"><tspan
+         sodipodi:role="line"
+         id="tspan336"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="662.04858"
+         y="46.514801">:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="699.03174"
+       y="46.514801"
+       id="text337"><tspan
+         sodipodi:role="line"
+         id="tspan337"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="699.03174"
+         y="46.514801">;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="735.81848"
+       y="46.514801"
+       id="text338"><tspan
+         sodipodi:role="line"
+         id="tspan338"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="735.81848"
+         y="46.514801">&lt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="809.60065"
+       y="46.514801"
+       id="text339"><tspan
+         sodipodi:role="line"
+         id="tspan339"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="809.60065"
+         y="46.514801">&gt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="772.7157"
+       y="46.514801"
+       id="text340"><tspan
+         sodipodi:role="line"
+         id="tspan340"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="772.7157"
+         y="46.514801">=</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="846.5838"
+       y="46.514801"
+       id="text341"><tspan
+         sodipodi:role="line"
+         id="tspan341"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="846.5838"
+         y="46.514801">?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="293.16226"
+       y="64.539627"
+       id="text342"><tspan
+         sodipodi:role="line"
+         id="tspan342"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="293.16226"
+         y="64.539627">@</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="330.02267"
+       y="65.027481"
+       id="text343"><tspan
+         sodipodi:role="line"
+         id="tspan343"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="330.02267"
+         y="65.027481">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="366.69284"
+       y="65.027481"
+       id="text344"><tspan
+         sodipodi:role="line"
+         id="tspan344"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="366.69284"
+         y="65.027481">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="403.61462"
+       y="65.027481"
+       id="text345"><tspan
+         sodipodi:role="line"
+         id="tspan345"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="403.61462"
+         y="65.027481">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="440.47501"
+       y="65.027481"
+       id="text346"><tspan
+         sodipodi:role="line"
+         id="tspan346"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="440.47501"
+         y="65.027481">D</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="477.27405"
+       y="65.027481"
+       id="text347"><tspan
+         sodipodi:role="line"
+         id="tspan347"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="477.27405"
+         y="65.027481">E</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="513.97186"
+       y="65.027481"
+       id="text348"><tspan
+         sodipodi:role="line"
+         id="tspan348"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="513.97186"
+         y="65.027481">F</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="551.46735"
+       y="65.027481"
+       id="text349"><tspan
+         sodipodi:role="line"
+         id="tspan349"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="551.46735"
+         y="65.027481">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="588.26025"
+       y="65.027481"
+       id="text350"><tspan
+         sodipodi:role="line"
+         id="tspan350"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="588.26025"
+         y="65.027481">H</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="625.15137"
+       y="65.027481"
+       id="text351"><tspan
+         sodipodi:role="line"
+         id="tspan351"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="625.15137"
+         y="65.027481">I</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="662.23267"
+       y="65.027481"
+       id="text352"><tspan
+         sodipodi:role="line"
+         id="tspan352"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="662.23267"
+         y="65.027481">J</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="698.37207"
+       y="65.027481"
+       id="text353"><tspan
+         sodipodi:role="line"
+         id="tspan353"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="698.37207"
+         y="65.027481">K</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="735.38281"
+       y="65.027481"
+       id="text354"><tspan
+         sodipodi:role="line"
+         id="tspan354"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="735.38281"
+         y="65.027481">L</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="772.7157"
+       y="65.027481"
+       id="text355"><tspan
+         sodipodi:role="line"
+         id="tspan355"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="772.7157"
+         y="65.027481">M</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="809.60681"
+       y="65.027481"
+       id="text356"><tspan
+         sodipodi:role="line"
+         id="tspan356"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="809.60681"
+         y="65.027481">N</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="846.49786"
+       y="65.027481"
+       id="text357"><tspan
+         sodipodi:role="line"
+         id="tspan357"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="846.49786"
+         y="65.027481">O</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="292.68668"
+       y="83.537102"
+       id="text358"><tspan
+         sodipodi:role="line"
+         id="tspan358"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="292.68668"
+         y="83.537102">P</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="329.78949"
+       y="83.537102"
+       id="text359"><tspan
+         sodipodi:role="line"
+         id="tspan359"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="329.78949"
+         y="83.537102">Q</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="366.45352"
+       y="83.537102"
+       id="text360"><tspan
+         sodipodi:role="line"
+         id="tspan360"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="366.45352"
+         y="83.537102">R</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="403.92758"
+       y="83.537102"
+       id="text361"><tspan
+         sodipodi:role="line"
+         id="tspan361"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="403.92758"
+         y="83.537102">S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="440.69901"
+       y="83.537102"
+       id="text362"><tspan
+         sodipodi:role="line"
+         id="tspan362"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="440.69901"
+         y="83.537102">T</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="477.58701"
+       y="83.537102"
+       id="text363"><tspan
+         sodipodi:role="line"
+         id="tspan363"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="477.58701"
+         y="83.537102">U</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="514.47809"
+       y="83.537102"
+       id="text364"><tspan
+         sodipodi:role="line"
+         id="tspan364"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="514.47809"
+         y="83.537102">V</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="551.3692"
+       y="83.537102"
+       id="text365"><tspan
+         sodipodi:role="line"
+         id="tspan365"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="551.3692"
+         y="83.537102">W</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="588.26025"
+       y="83.537102"
+       id="text366"><tspan
+         sodipodi:role="line"
+         id="tspan366"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="588.26025"
+         y="83.537102">X</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="625.15137"
+       y="83.537102"
+       id="text367"><tspan
+         sodipodi:role="line"
+         id="tspan367"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="625.15137"
+         y="83.537102">Y</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="662.04248"
+       y="83.537102"
+       id="text368"><tspan
+         sodipodi:role="line"
+         id="tspan368"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="662.04248"
+         y="83.537102">Z</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="698.82001"
+       y="83.537102"
+       id="text369"><tspan
+         sodipodi:role="line"
+         id="tspan369"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="698.82001"
+         y="83.537102">[</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="735.82465"
+       y="83.537102"
+       id="text370"><tspan
+         sodipodi:role="line"
+         id="tspan370"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="735.82465"
+         y="83.537102">\</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="772.82922"
+       y="83.537102"
+       id="text371"><tspan
+         sodipodi:role="line"
+         id="tspan371"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="772.82922"
+         y="83.537102">]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="809.60681"
+       y="83.537102"
+       id="text372"><tspan
+         sodipodi:role="line"
+         id="tspan372"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="809.60681"
+         y="83.537102">^</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="846.49786"
+       y="83.537102"
+       id="text373"><tspan
+         sodipodi:role="line"
+         id="tspan373"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="846.49786"
+         y="83.537102">_</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="293.14078"
+       y="102.04365"
+       id="text374"><tspan
+         sodipodi:role="line"
+         id="tspan374"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="293.14078"
+         y="102.04365">`</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="330.09018"
+       y="102.04365"
+       id="text375"><tspan
+         sodipodi:role="line"
+         id="tspan375"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="330.09018"
+         y="102.04365">a</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="366.71432"
+       y="102.04365"
+       id="text376"><tspan
+         sodipodi:role="line"
+         id="tspan376"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="366.71432"
+         y="102.04365">b</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="403.75574"
+       y="102.04365"
+       id="text377"><tspan
+         sodipodi:role="line"
+         id="tspan377"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="403.75574"
+         y="102.04365">c</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="440.89536"
+       y="102.04365"
+       id="text378"><tspan
+         sodipodi:role="line"
+         id="tspan378"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="440.89536"
+         y="102.04365">d</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="477.58087"
+       y="102.04365"
+       id="text379"><tspan
+         sodipodi:role="line"
+         id="tspan379"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="477.58087"
+         y="102.04365">e</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="514.18353"
+       y="102.04365"
+       id="text380"><tspan
+         sodipodi:role="line"
+         id="tspan380"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="514.18353"
+         y="102.04365">f</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="551.24646"
+       y="102.04365"
+       id="text381"><tspan
+         sodipodi:role="line"
+         id="tspan381"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="551.24646"
+         y="102.04365">g</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="588.25415"
+       y="102.04365"
+       id="text382"><tspan
+         sodipodi:role="line"
+         id="tspan382"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="588.25415"
+         y="102.04365">h</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="624.93042"
+       y="102.04365"
+       id="text383"><tspan
+         sodipodi:role="line"
+         id="tspan383"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="624.93042"
+         y="102.04365">i</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="662.40759"
+       y="102.04365"
+       id="text384"><tspan
+         sodipodi:role="line"
+         id="tspan384"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="662.40759"
+         y="102.04365">j</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="698.47327"
+       y="102.04365"
+       id="text385"><tspan
+         sodipodi:role="line"
+         id="tspan385"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="698.47327"
+         y="102.04365">k</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="736.04858"
+       y="102.04365"
+       id="text386"><tspan
+         sodipodi:role="line"
+         id="tspan386"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="736.04858"
+         y="102.04365">l</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="772.7157"
+       y="102.04365"
+       id="text387"><tspan
+         sodipodi:role="line"
+         id="tspan387"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="772.7157"
+         y="102.04365">m</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="809.60065"
+       y="102.04365"
+       id="text388"><tspan
+         sodipodi:role="line"
+         id="tspan388"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="809.60065"
+         y="102.04365">n</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="846.49786"
+       y="102.04365"
+       id="text389"><tspan
+         sodipodi:role="line"
+         id="tspan389"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="846.49786"
+         y="102.04365">o</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="292.96591"
+       y="120.55327"
+       id="text390"><tspan
+         sodipodi:role="line"
+         id="tspan390"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="292.96591"
+         y="120.55327">p</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="330.18835"
+       y="120.55327"
+       id="text391"><tspan
+         sodipodi:role="line"
+         id="tspan391"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="330.18835"
+         y="120.55327">q</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="366.69284"
+       y="120.55327"
+       id="text392"><tspan
+         sodipodi:role="line"
+         id="tspan392"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="366.69284"
+         y="120.55327">r</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="403.95825"
+       y="120.55327"
+       id="text393"><tspan
+         sodipodi:role="line"
+         id="tspan393"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="403.95825"
+         y="120.55327">s</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="440.70819"
+       y="120.55327"
+       id="text394"><tspan
+         sodipodi:role="line"
+         id="tspan394"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="440.70819"
+         y="120.55327">t</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="477.58701"
+       y="120.55327"
+       id="text395"><tspan
+         sodipodi:role="line"
+         id="tspan395"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="477.58701"
+         y="120.55327">u</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="514.47809"
+       y="120.55327"
+       id="text396"><tspan
+         sodipodi:role="line"
+         id="tspan396"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="514.47809"
+         y="120.55327">v</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="551.3692"
+       y="120.55327"
+       id="text397"><tspan
+         sodipodi:role="line"
+         id="tspan397"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="551.3692"
+         y="120.55327">w</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="588.26025"
+       y="120.55327"
+       id="text398"><tspan
+         sodipodi:role="line"
+         id="tspan398"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="588.26025"
+         y="120.55327">x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="625.15137"
+       y="120.55327"
+       id="text399"><tspan
+         sodipodi:role="line"
+         id="tspan399"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="625.15137"
+         y="120.55327">y</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="662.03632"
+       y="120.55327"
+       id="text400"><tspan
+         sodipodi:role="line"
+         id="tspan400"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="662.03632"
+         y="120.55327">z</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="699.12378"
+       y="120.55327"
+       id="text401"><tspan
+         sodipodi:role="line"
+         id="tspan401"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="699.12378"
+         y="120.55327">{</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="735.83075"
+       y="120.55327"
+       id="text402"><tspan
+         sodipodi:role="line"
+         id="tspan402"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="735.83075"
+         y="120.55327">|</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="772.52545"
+       y="120.55327"
+       id="text403"><tspan
+         sodipodi:role="line"
+         id="tspan403"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="772.52545"
+         y="120.55327">}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9661px;line-height:0.9;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';fill:#3e3d32;stroke:none;stroke-width:0.999993;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.998262"
+       x="809.60681"
+       y="120.55327"
+       id="text404"><tspan
+         sodipodi:role="line"
+         id="tspan404"
+         style="fill:#3e3d32;stroke-width:0.999993"
+         x="809.60681"
+         y="120.55327">~</tspan></text>
+  </g>
+</svg>

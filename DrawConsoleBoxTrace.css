@@ -15,3 +15,48 @@
 #DrawConsoleBoxTrace .CTControlStrip {
     margin-top: 1em;
 }
+
+#DrawConsoleBoxTable #DrawConsoleBoxTrace .CodeTrace {
+    width: 1800px;
+    height: 785px;
+    padding-right: 5px;
+    margin-top: 0em;
+    margin-bottom: 0.7em;
+}
+
+#DrawConsoleBoxTable #DrawConsoleBanner {
+    width: 905px;  // Why +5???
+    height: 1.6em;
+    vertical-align: middle;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    border-top-right-radius: 13px;
+    border-top-left-radius: 13px;
+    background-color: #75715E;
+    color: black;
+    border: none;
+    font: bold 0.65em 'Lucida Grande',sans-serif;
+    text-align: center;
+}
+
+#DrawConsoleConsole {
+    width: 900px;
+    height: 150px;
+    background-color: #1B1C18;
+    margin: 0px;
+    overflow: hidden;
+    font: 0.8em 'Menlo','Courier New','Courier',monospace;
+    color: #F8F8F2;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.reveal #DrawConsoleBanner {
+    margin-top: 1em;
+}
+
+.reveal #DrawConsoleBoxTable > tbody > tr > td {
+    padding: 0px;
+}
