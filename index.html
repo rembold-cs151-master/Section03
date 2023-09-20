@@ -4904,34 +4904,35 @@ should produce the following diagram:
 <tbody style="border:none;">
 <tr><td><div id="DrawConsoleBoxTrace" style="margin:0px;"></div></td></tr>
 <tr>
-<td>
-<table>
-<tbody>
-<tr><td> <div id="DrawConsoleBanner" style="margin:0px; padding:0px;">Console</div> </td></tr>
-<tr><td><div id="DrawConsoleConsole"></div></td>
-</tbody>
-</table>
-</td>
-<td>
-<table class="CTControlStrip">
-<tbody>
-<tr>
-<td>
-<img id=DrawConsoleBoxTraceStepInButton
-     class="CTButton"
-     src="images/StepInControl.png"
-     alt="StepInButton" />
-</td>
-<td>
-<img id=DrawConsoleBoxTraceResetButton
-     class="CTButton"
-     src="images/ResetControl.png"
-     alt="ResetButton" />
-</td>
-</tr>
-</tbody>
-</table>
-</td>
+    <td>
+    <div style='display: flex'>
+        <table style='flex: 1'>
+        <tbody>
+        <tr><td style="padding:0px"> <div id="DrawConsoleBanner" style="margin:0px; padding:0px;">Console</div> </td></tr>
+        <tr><td style="padding:0px"> <div id="DrawConsoleConsole"></div></td></tr>
+        </tbody>
+        </table>
+
+        <table class="CTControlStrip" style='flex: 2'>
+        <tbody>
+        <tr>
+        <td>
+        <img id=DrawConsoleBoxTraceStepInButton
+             class="CTButton"
+             src="images/StepInControl.png"
+             alt="StepInButton" />
+        </td>
+        <td>
+        <img id=DrawConsoleBoxTraceResetButton
+             class="CTButton"
+             src="images/ResetControl.png"
+             alt="ResetButton" />
+        </td>
+        </tr>
+        </tbody>
+        </table>
+    </div>
+    </td>
 </tr>
 <tr>
 <td style="text-align:center;">

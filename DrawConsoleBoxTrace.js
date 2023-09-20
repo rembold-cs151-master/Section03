@@ -18,7 +18,7 @@ class DrawConsoleBoxTrace extends CodeTrace {
     }
 
     setParameters() {
-        this.setMaxStackDepth(2);
+        this.setMaxStackDepth(1);
         this.setFrameHeight(DrawConsoleBoxTrace.FRAME_HEIGHT);
         this.setFrameDeltas(DrawConsoleBoxTrace.FRAME_DX,
                             DrawConsoleBoxTrace.FRAME_DY);
@@ -26,18 +26,23 @@ class DrawConsoleBoxTrace extends CodeTrace {
     }
 
     defineFunctions() {
-        this.defineFunction("main", new DrawConsoleBoxMain());
+        //this.defineFunction("main", new DrawConsoleBoxMain());
         this.defineFunction("draw_console_box", new DrawConsoleBox());
     }
 
     reset() {
+        let console = document.getElementById("DrawConsoleConsole");
+        console.innerHTML = ("<span class='prompt'>&gt;&gt;&gt;</span> " +
+        "<span class='#1'>draw<span class='u'>_</span>" +
+            "console<span class='u'>_</span>box(7, 4)</span><br/>");
         super.reset();
-        let cf = this.getCurrentFrame();
-        cf.setVisible("#2", false);
+        //let cf = this.getCurrentFrame();
+        //cf.setVisible("#2", false);
     }
 
     run() {
-        this.call("main");
+        //this.call("main");
+        this.call("draw_console_box");
     }
 
 }
@@ -103,8 +108,8 @@ class DrawConsoleBox extends CTFunction {
         cf.getVariable("midc").setQuoteFlag(true);
         cf.getVariable("line").setQuoteFlag(true);
         cf.layoutVariables();
-        cf.set("height", ct.pop());
-        cf.set("width", ct.pop());
+        cf.set("height", 4);
+        cf.set("width", 7);
         return cf;
     }
     
@@ -141,7 +146,14 @@ class DrawConsoleBox extends CTFunction {
                                              })) {
                 await ct.traceStep("#9", () => cf.set("line", line += midc));
             }
-            await ct.traceStep("#10", () => undefined);
+            await ct.traceStep("#10", () => print(endc + line + endc));
+        }
+
+        function print(s) {
+            let stdout = document.getElementById("DrawConsoleConsole");
+            // Needs to swap out the spaces for nbsp else HTML collapses them
+            stdout.innerHTML += s.replace(/ /g, "&nbsp;") + "<br />";
+            stdout.scrollTop = stdout.scrollHeight;
         }
     }
 
