@@ -124,7 +124,8 @@ class DrawConsoleBox extends CTFunction {
         let j = -1;
         await ct.traceStep("#1", () => undefined);
         while (await ct.traceStep("#1a", function() {
-                                             cf.set("i", ++i);
+                                             ++i;
+                                             if (i<4) {cf.set("i", i);}
                                              return i < height;
                                          })) {
             if (await ct.traceStep("#2", () => i === 0 || i === height - 1)) {
