@@ -1,2 +1,2 @@
-# section_template
-A template file for generating slides and content for a section meeting
+# Section03
+Section materials for week 3 on control statements, algorithms, and strings.
