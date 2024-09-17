@@ -459,6 +459,14 @@ margin-left: 1em;*/ }
   margin-bottom: 1em;
   border-spacing: 0; }
 
+.reveal .override table {
+  margin: auto;
+  border-collapse: collapse;
+  color: var(--fg);
+  margin-top: 1em;
+  margin-bottom: 1em;
+  border-spacing: 0; }
+
 .reveal table th {
   font-weight: bold; }
 
