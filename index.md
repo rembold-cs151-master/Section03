@@ -1,7 +1,7 @@
 ---
 title: "Section 3: Control & Strings"
 author: Jed Rembold and Eric Roberts
-date: "Week of Sept 16"
+date: "Week of Feb 3rd"
 slideNumber: true
 theme: monokai
 highlightjs-theme: monokai
