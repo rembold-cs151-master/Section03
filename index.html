@@ -41,7 +41,7 @@
 <section id="title-slide">
   <h1 class="title">Section 3: Control &amp; Strings</h1>
   <p class="author">Jed Rembold and Eric Roberts</p>
-  <p class="date">Week of Feb 3rd</p>
+  <p class="date">Week of Sep 15th</p>
 <div class="titlelinks">
 <a title="Template Repo" href="https://github.com/rembold-cs151-master/Section03"><i class="fa-solid fa-folder-tree"></i></a>
 <a title="Template Zip"  href="https://github.com/rembold-cs151-master/Section03/zipball/master/"><i class="fa-solid fa-file-zipper"></i></a>
@@ -115,14 +115,12 @@ Console
 </td>
 </tr>
 </table>
-<div>
 <ul>
 <li class="fragment">This function calculates the greatest common
 divisor of <code class="python">x</code> and
 <code class="python">y</code> as Euclid described it in his
 <em>Elements</em>.</li>
 </ul>
-</div>
 </section>
 <section id="problem-1b" class="slide level2">
 <h2>Problem 1b</h2>
@@ -188,13 +186,11 @@ Console
 </td>
 </tr>
 </table>
-<div>
 <ul>
 <li class="fragment">This function calculates the sum of the first
 <code class="python">n</code> odd integers, which always works out to
 <span class="math inline">\(n^2\)</span>.</li>
 </ul>
-</div>
 </section>
 <section id="problem-2" class="slide level2">
 <h2>Problem 2</h2>
@@ -2810,6 +2806,9 @@ data-background-size="contain"></h2>
   </g>
 </svg>
 </p>
+<div class="fragment">
+
+</div>
 </section>
 <section id="exercise-ascii-decoding" class="slide level2">
 <h2>Exercise: ASCII Decoding</h2>
@@ -4799,7 +4798,6 @@ the movie:</li>
 </section>
 <section id="problem-3" class="slide level2">
 <h2>Problem 3</h2>
-<div>
 <ul>
 <li class="fragment">Write a function
 <code class="python">draw_console_box(width, height)</code> that draws a
@@ -4812,7 +4810,6 @@ vertical bar (<code class="python">|</code>).</li>
 <code class="python">draw_console_box(52, 6)</code> should produce the
 following diagram: <img data-src="./images/ConsoleBox-out.png" /></li>
 </ul>
-</div>
 </section>
 <section id="some-considerations" class="slide level2">
 <h2>Some Considerations</h2>
@@ -4821,10 +4818,12 @@ following diagram: <img data-src="./images/ConsoleBox-out.png" /></li>
 think about may include:
 <ul>
 <li>Different lines have different content. How will you track what you
-should be printing?</li>
-<li>How can you generate the necessary lines to print?</li>
+should be printing on a given line?
+<ul>
+<li>How can you generate the necessary line to print?</li>
 <li>How will you determine how many characters of different types to
 print on a line?</li>
+</ul></li>
 <li>How will you manage printing multiple lines?</li>
 </ul></li>
 </ul>
@@ -4940,33 +4939,33 @@ statements</li>
 <div class="override">
 <table>
 <thead>
-<tr class="header">
+<tr>
 <th>Year</th>
 <th style="text-align: center;">Easter Date</th>
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
+<tr>
 <td>2020</td>
 <td style="text-align: center;">April 12</td>
 </tr>
-<tr class="even">
+<tr>
 <td>2021</td>
 <td style="text-align: center;">April 4</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>2022</td>
 <td style="text-align: center;">April 17</td>
 </tr>
-<tr class="even">
+<tr>
 <td>2023</td>
 <td style="text-align: center;">April 9</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>2024</td>
 <td style="text-align: center;">March 31</td>
 </tr>
-<tr class="even">
+<tr>
 <td>2025</td>
 <td style="text-align: center;">April 20</td>
 </tr>

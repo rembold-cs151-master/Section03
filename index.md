@@ -1,7 +1,7 @@
 ---
 title: "Section 3: Control & Strings"
 author: Jed Rembold and Eric Roberts
-date: "Week of Feb 3rd"
+date: "Week of Sep 15th"
 slideNumber: true
 theme: monokai
 highlightjs-theme: monokai
@@ -136,6 +136,8 @@ content_url: https://github.com/rembold-cs151-master/Section03
 
 ![](./images/ascii_howalive.svg)
 
+<div class='fragment'></div>
+
 
 ## Exercise: ASCII Decoding
 - Decode the following message, which appears in the book but not in the movie:
@@ -152,9 +154,9 @@ content_url: https://github.com/rembold-cs151-master/Section03
 
 ## Some Considerations
 - As usual, breaking things down will usually help. Some things to think about may include:
-  - Different lines have different content. How will you track what you should be printing?
-  - How can you generate the necessary lines to print?
-  - How will you determine how many characters of different types to print on a line?
+  - Different lines have different content. How will you track what you should be printing on a given line?
+    - How can you generate the necessary line to print?
+    - How will you determine how many characters of different types to print on a line?
   - How will you manage printing multiple lines?
 
 
