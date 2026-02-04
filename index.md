@@ -1,10 +1,10 @@
 ---
 title: "Section 3: Control & Strings"
 author: Jed Rembold and Eric Roberts
-date: "Week of Sep 15th"
+date: "Week of February 2nd"
 slideNumber: true
-theme: monokai
-highlightjs-theme: monokai
+theme: python_catppuccin
+highlightjs-theme: catppuccin-mocha
 width: 1920
 height: 1080
 transition: fade
@@ -53,13 +53,13 @@ content_url: https://github.com/rembold-cs151-master/Section03
 <td>
 <img id=MysteryTraceStepInButton
      class="CTButton"
-     src="images/StepInControl.png"
+     src="images/StepIn.png"
      alt="StepInButton" />
 </td>
 <td>
 <img id=MysteryTraceResetButton
      class="CTButton"
-     src="images/ResetControl.png"
+     src="images/Reset.png"
      alt="ResetButton" />
 </td>
 </tr>
@@ -221,7 +221,7 @@ content_url: https://github.com/rembold-cs151-master/Section03
 ## Testing
 - Use the below dates to Easter to write a function to check your previously written function using `assert` statements
 
-:::override
+:::{style='margin:auto'}
 
 | Year | Easter Date |
 |------|:-----------:|
@@ -231,6 +231,7 @@ content_url: https://github.com/rembold-cs151-master/Section03
 | 2023 |   April 9   |
 | 2024 |   March 31  |
 | 2025 |   April 20  |
+
 :::
 
 ## One Possible Implementation
