@@ -1,7 +1,7 @@
 ---
 title: "Section 3: Control & Strings"
 author: Jed Rembold and Eric Roberts
-date: "Week of February 2nd"
+date: "Week of September 13th"
 slideNumber: true
 theme: python_catppuccin
 highlightjs-theme: catppuccin-mocha
@@ -231,6 +231,7 @@ content_url: https://github.com/rembold-cs151-master/Section03
 | 2023 |   April 9   |
 | 2024 |   March 31  |
 | 2025 |   April 20  |
+| 2026 |   April 5   |
 
 :::
 
