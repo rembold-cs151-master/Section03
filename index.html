@@ -14,10 +14,13 @@
     /* Default styles provided by pandoc.
     ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
     */
-    code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    div.columns{display: flex; gap: min(4vw, 1.5em);}
-    div.column{flex: auto; overflow-x: auto;}
+    div.columns{display: flex; gap: 1.5em;}
+    div.column{flex: auto;}
+    @media screen {
+    div.columns{gap: min(4vw, 1.5em);}
+    div.column{overflow-x: auto;}
+    }
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     /* The extra [class] is a hack that increases specificity enough to
        override a similar rule in reveal.js */
@@ -4802,14 +4805,14 @@ the movie:</li>
 <section id="problem-3" class="slide level2">
 <h2>Problem 3</h2>
 <ul>
-<li class="fragment">Write a function
+<li>Write a function
 <code class="python">draw_console_box(width, height)</code> that draws a
 box on the console with the specified dimensions. The corners of the box
 should be represented using a plus sign (<code class="python">+</code>),
 the top and bottom borders using a minus sign
 (<code class="python">-</code>), and the left and right borders using a
 vertical bar (<code class="python">|</code>).</li>
-<li class="fragment">For example, calling
+<li>For example, calling
 <code class="python">draw_console_box(52, 6)</code> should produce the
 following diagram: <img data-src="./images/ConsoleBox-out.png" /></li>
 </ul>

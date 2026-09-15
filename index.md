@@ -146,11 +146,9 @@ content_url: https://github.com/rembold-cs151-master/Section03
 
 
 ## Problem 3
-:::incremental
 - Write a function `draw_console_box(width, height)` that draws a box on the console with the specified dimensions. The corners of the box should be represented using a plus sign (`+`), the top and bottom borders using a minus sign (`-`), and the left and right borders using a vertical bar (`|`).
 - For example, calling `draw_console_box(52, 6)` should produce the following diagram:
   ![](./images/ConsoleBox-out.png)
-:::
 
 ## Some Considerations
 - As usual, breaking things down will usually help. Some things to think about may include:
